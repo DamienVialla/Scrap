@@ -1,0 +1,641 @@
+Date;Categorie;Description;Marque;quantité;prix actuel;prix avant reduc;pourcentage reduc;prix par unité
+02/05/2023;sante-bio;Psyllium Blond Bio;Sfb;200 g;8,72 ¬ ;11,41 ¬ ;-24%;43,60 ¬ /kg
+02/05/2023;sante-bio;Barre Protéinée Bouddha Cacao & Fruits à Coques Bio;Iswari;47 g;1,98 ¬ ;2,45 ¬ ;-19%;42,13 ¬ /kg
+02/05/2023;sante-bio;Sève de Bouleau des Pyrénées Bio;Fée Nature;3,00 L;22,75 ¬ ;26,70 ¬ ;-15%;7,58 ¬ /L
+02/05/2023;sante-bio;Sel d'Epsom;Nature et Partage;1 kg;5,20 ¬ ;6,40 ¬ ;-19%;5,20 ¬ /kg
+02/05/2023;sante-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;sante-bio;Protéine de Chanvre bio;Iswari;250 g;7,58 ¬ ;9,50 ¬ ;-20%;30,32 ¬ /kg
+02/05/2023;sante-bio;Huile Essentielle de Tea Tree Bio;Bonescient;10 mL;3,72 ¬ ;5,87 ¬ ;-37%;372,00 ¬ /L
+02/05/2023;sante-bio;Barre Protéinée Bouddha Chia Citron & Spiruline Bio;Iswari;47 g;1,98 ¬ ;2,46 ¬ ;-20%;42,13 ¬ /kg
+02/05/2023;sante-bio;Sève de Bouleau Bio;Fée Nature;5,00 L;34,10 ¬ ;38,57 ¬ ;-12%;6,82 ¬ /L
+02/05/2023;sante-bio;Vitamines B12 (1 mg) + Iode et Sélénium x 60;Argalys;Pas de quantité;13,98 ¬ ;17,86 ¬ ;-22%;0,23 ¬ /unité
+02/05/2023;sante-bio;Eau Florale de Lavande officinale Bio;Bonescient;200 mL;6,17 ¬ ;9,81 ¬ ;-37%;30,85 ¬ /L
+02/05/2023;sante-bio;Magnésium Marin + B6 x 80;Nat et Form;Pas de quantité;5,95 ¬ ;6,78 ¬ ;-12%;0,07 ¬ /unité
+02/05/2023;sante-bio;Sève de Bouleau des Pyrénées Bio;Fée Nature;1,00 L;9,90 ¬ ;11,81 ¬ ;-16%;9,90 ¬ /L
+02/05/2023;sante-bio;Huile Essentielle de Menthe Poivrée Bio;Bonescient;10 mL;4,50 ¬ ;6,38 ¬ ;-29%;450,00 ¬ /L
+02/05/2023;sante-bio;Eau Florale de Fleur D'Oranger Bio;Bonescient;200 mL;8,11 ¬ ;10,87 ¬ ;-25%;40,55 ¬ /L
+02/05/2023;sante-bio;Petit Déjeuner Éveil du Bouddha Açaï Banane et Fraise bio;Iswari;360 g;7,90 ¬ ;9,43 ¬ ;-16%;21,94 ¬ /kg
+02/05/2023;sante-bio;Charbon Végétal Activé en Poudre;Sfb;150 g;8,12 ¬ ;12,63 ¬ ;-36%;54,13 ¬ /kg
+02/05/2023;sante-bio;Eau Florale de Bleuet Bio;Bonescient;200 mL;6,08 ¬ ;10,37 ¬ ;-41%;30,40 ¬ /L
+02/05/2023;sante-bio;Sel de Nigari (Chlorure De Magnésium);Celnat;100 g;1,86 ¬ ;2,09 ¬ ;-11%;18,60 ¬ /kg
+02/05/2023;sante-bio;Protéines Super Vegan Bio;Iswari;250 g;9,14 ¬ ;11,31 ¬ ;-19%;36,56 ¬ /kg
+02/05/2023;sante-bio;Petit Déjeuner Éveil du Bouddha Maxi Protéines bio;Iswari;360 g;7,90 ¬ ;9,75 ¬ ;-19%;21,94 ¬ /kg
+02/05/2023;sante-bio;Spiruline bio en poudre;Iswari;125 g;7,24 ¬ ;8,20 ¬ ;-12%;57,92 ¬ /kg
+02/05/2023;sante-bio;Açaï bio en poudre;Iswari;70 g;10,20 ¬ ;14,56 ¬ ;-30%;145,71 ¬ /kg
+02/05/2023;sante-bio;Huile de Jojoba Bio;Avril;100 mL;10,20 ¬ ;12,00 ¬ ;-15%;102,00 ¬ /L
+02/05/2023;sante-bio;Vegaflore Pré Et Probiotiques x 60;Argalys;Pas de quantité;16,99 ¬ ;21,90 ¬ ;-22%;0,28 ¬ /unité
+02/05/2023;sante-bio;Huile Essentielle de Ravintsara Bio;Bonescient;10 mL;3,73 ¬ ;5,80 ¬ ;-36%;373,00 ¬ /L
+02/05/2023;sante-bio;Petit Déjeuner Éveil du Bouddha à la Framboise bio;Iswari;360 g;7,90 ¬ ;9,58 ¬ ;-18%;21,94 ¬ /kg
+02/05/2023;sante-bio;Oméga 3 Dha x 60;Argalys;Pas de quantité;18,48 ¬ ;22,31 ¬ ;-17%;0,31 ¬ /unité
+02/05/2023;sante-bio;Huile Essentielle de Lavande Officinale Bio;Bonescient;10 mL;6,98 ¬ ;12,42 ¬ ;-44%;698,00 ¬ /L
+02/05/2023;sante-bio;Huile de Bourrache Onagre Bio x 120;Nat et Form;Pas de quantité;11,95 ¬ ;13,95 ¬ ;-14%;0,10 ¬ /unité
+02/05/2023;sante-bio;Vitamine D3 + Zinc x 60;Nat et Form;Pas de quantité;7,35 ¬ ;8,70 ¬ ;-16%;0,12 ¬ /unité
+02/05/2023;sante-bio;Maca en poudre Bio;Iswari;250 g;9,18 ¬ ;10,83 ¬ ;-15%;36,72 ¬ /kg
+02/05/2023;sante-bio;Huile Essentielle de Lavandin Super Bio;Bonescient;10 mL;3,15 ¬ ;5,36 ¬ ;-41%;315,00 ¬ /L
+02/05/2023;sante-bio;Huile d'Amande Douce Bio;Avril;100 mL;9,35 ¬ ;11,00 ¬ ;-15%;93,50 ¬ /L
+02/05/2023;sante-bio;Super Petit Déjeuner Cacao et Purée de Noisette Bio;Iswari;360 g;5,96 ¬ ;7,07 ¬ ;-16%;16,56 ¬ /kg
+02/05/2023;sante-bio;Shot de Jus de Gingembre au Miel Bio;Dame Gingembre;6 mL;2,90 ¬ ;3,21 ¬ ;-10%;483,33 ¬ /L
+02/05/2023;sante-bio;Petit Déjeuner Éveil du Bouddha au Cacao Bio;Iswari;360 g;7,90 ¬ ;9,95 ¬ ;-21%;21,94 ¬ /kg
+02/05/2023;sante-bio;Magnésium + Potassium + Vitamine B6 Bio x 60;Argalys;Pas de quantité;11,98 ¬ ;14,83 ¬ ;-19%;0,20 ¬ /unité
+02/05/2023;sante-bio;Sève de Bouleau et Bourgeons de Cassis Bio;Fée Nature;2,00 L;16,51 ¬ ;18,25 ¬ ;-10%;8,26 ¬ /L
+02/05/2023;sante-bio;Fer + Vitamine C, B9 et Carotte x 60;Argalys;Pas de quantité;15,95 ¬ ;19,50 ¬ ;-18%;0,27 ¬ /unité
+02/05/2023;sante-bio;Collagène Vegan x 60;Argalys;Pas de quantité;19,90 ¬ ;22,50 ¬ ;-12%;0,33 ¬ /unité
+02/05/2023;sante-bio;Barre Energétique Café Chocolat Noir Amande Bio;Blast Snack;40 g;1,97 ¬ ;2,49 ¬ ;-21%;49,25 ¬ /kg
+02/05/2023;sante-bio;Macérat Huileux de Carotte Bio;Avril;100 mL;6,60 ¬ ;8,00 ¬ ;-18%;66,00 ¬ /L
+02/05/2023;sante-bio;Argent Colloïdal 15ppm;Argent Vital;500 g;15,40 ¬ ;20,32 ¬ ;-24%;30,80 ¬ /kg
+02/05/2023;sante-bio;Cure Vegan Protéinée Bio;La Mandorle;230 g;12,99 ¬ ;16,18 ¬ ;-20%;56,48 ¬ /kg
+02/05/2023;sante-bio;Baume Sommeil Paisible Bio;Les Baumes du Hibou;30 mL;6,93 ¬ ;8,20 ¬ ;-15%;231,00 ¬ /L
+02/05/2023;sante-bio;Petit Déjeuner Éveil du Bouddha Maca Vanille bio;Iswari;360 g;7,90 ¬ ;9,75 ¬ ;-19%;21,94 ¬ /kg
+02/05/2023;sante-bio;Moringa bio en poudre;Iswari;125 g;6,90 ¬ ;7,68 ¬ ;-10%;55,20 ¬ /kg
+02/05/2023;sante-bio;Magnésium Marin + B6 x 40;Nat et Form;Pas de quantité;3,55 ¬ ;4,28 ¬ ;-17%;0,09 ¬ /unité
+02/05/2023;sante-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;sante-bio;Charbon Végétal Super Activé x 120;Sfb;Pas de quantité;9,68 ¬ ;14,87 ¬ ;-35%;0,08 ¬ /unité
+02/05/2023;sante-bio;Eau Florale de Camomille Romaine Bio;Bonescient;200 mL;7,45 ¬ ;10,49 ¬ ;-29%;37,25 ¬ /L
+02/05/2023;sante-bio;Huile Essentielle de Tea Tree Bio;Bonescient;30 mL;8,06 ¬ ;10,93 ¬ ;-26%;268,67 ¬ /L
+02/05/2023;sante-bio;Protéines de Pois Jaunes Bio;Iswari;250 g;8,18 ¬ ;9,95 ¬ ;-18%;32,72 ¬ /kg
+02/05/2023;sante-bio;Huile Végétale Ricin;Bonescient;50 mL;5,23 ¬ ;6,48 ¬ ;-19%;104,60 ¬ /L
+02/05/2023;sante-bio;Petit Déjeuner Éveil du Bouddha Mangue et Baobab bio;Iswari;360 g;7,90 ¬ ;10,08 ¬ ;-22%;21,94 ¬ /kg
+02/05/2023;sante-bio;Griffonia x 200;Nat et Form;Pas de quantité;6,97 ¬ ;8,59 ¬ ;-19%;0,03 ¬ /unité
+02/05/2023;sante-bio;Eau Florale d'Hamamélis Certifiée Bio;Avril;200 mL;5,90 ¬ ;7,00 ¬ ;-16%;29,50 ¬ /L
+02/05/2023;sante-bio;Baume Apaise Piqûre Bio;Les Baumes du Hibou;30 mL;6,93 ¬ ;8,20 ¬ ;-15%;231,00 ¬ /L
+02/05/2023;sante-bio;Multivitamines et Minéraux x 60;Argalys;Pas de quantité;17,99 ¬ ;22,00 ¬ ;-18%;0,30 ¬ /unité
+02/05/2023;sante-bio;Huile d'Argan Bio;Avril;100 mL;11,98 ¬ ;15,00 ¬ ;-20%;119,80 ¬ /L
+02/05/2023;sante-bio;Gommes Junior 9 Vitamines x 60;Nat et Form;Pas de quantité;5,19 ¬ ;5,94 ¬ ;-13%;0,09 ¬ /unité
+02/05/2023;sante-bio;Eau Florale d'Hélichryse Bio;Bonescient;200 mL;7,03 ¬ ;9,81 ¬ ;-28%;35,15 ¬ /L
+02/05/2023;sante-bio;Chardon Marie Bio x 200;Nat et Form;Pas de quantité;9,95 ¬ ;11,49 ¬ ;-13%;0,05 ¬ /unité
+02/05/2023;sante-bio;Levure de Bière Non Revivifiable Bio x 200;Nat et Form;Pas de quantité;11,90 ¬ ;14,95 ¬ ;-20%;0,06 ¬ /unité
+02/05/2023;sante-bio;Huile Essentielle de Gaultherie Bio;Bonescient;10 mL;4,12 ¬ ;5,80 ¬ ;-29%;412,00 ¬ /L
+02/05/2023;sante-bio;Huile De Foie De Morue x 200;Nat et Form;Pas de quantité;7,08 ¬ ;8,39 ¬ ;-16%;0,04 ¬ /unité
+02/05/2023;sante-bio;Barre Energétique Figues Gingembre Amande Bio;Blast Snack;40 g;2,12 ¬ ;2,49 ¬ ;-15%;53,00 ¬ /kg
+02/05/2023;sante-bio;Beurre de Cacao Cru Bio;Iswari;125 g;4,75 ¬ ;6,44 ¬ ;-26%;38,00 ¬ /kg
+02/05/2023;sante-bio;Vitamine D3;Argalys;30 mL;15,29 ¬ ;18,00 ¬ ;-15%;509,67 ¬ /L
+02/05/2023;sante-bio;Charbon Végétal Activé x 60;Nat et Form;Pas de quantité;5,60 ¬ ;6,70 ¬ ;-16%;0,09 ¬ /unité
+02/05/2023;sante-bio;Vitamine B12 - BéDouze Passion Bio x 120;Bio Frères;Pas de quantité;19,95 ¬ ;24,08 ¬ ;-17%;0,17 ¬ /unité
+02/05/2023;sante-bio;Crème réparatrice 40% de Miel de Manuka IAA10+;Comptoirs et Compagnies;40 g;9,90 ¬ ;12,09 ¬ ;-18%;247,50 ¬ /kg
+02/05/2023;sante-bio;Huile Essentielle De Citronnelle Bio;Bonescient;10 mL;3,94 ¬ ;5,20 ¬ ;-24%;394,00 ¬ /L
+02/05/2023;sante-bio;Gommes Prodi' Night - Sommeil x 60;Nat et Form;Pas de quantité;8,40 ¬ ;9,95 ¬ ;-16%;0,14 ¬ /unité
+02/05/2023;sante-bio;Baume Soin des Pieds;Les Baumes du Hibou;30 g;6,93 ¬ ;8,20 ¬ ;-15%;231,00 ¬ /kg
+02/05/2023;sante-bio;Boîte de 12 Préservatifs Latex Naturel & Vegans Ultra-Fins;Xo!;46 g;8,30 ¬ ;9,95 ¬ ;-17%;180,43 ¬ /kg
+02/05/2023;sante-bio;Konjac Bio x 200;Nat et Form;Pas de quantité;12,62 ¬ ;14,95 ¬ ;-16%;0,06 ¬ /unité
+02/05/2023;sante-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;sante-bio;Spray Répulsif Anti-Moustiques;Aries;100 mL;11,65 ¬ ;13,90 ¬ ;-16%;116,50 ¬ /L
+02/05/2023;epicerie-salee-bio;Huile d'Olive Vierge Extra Origine Italie Bio;La Fourche;1,00 L;9,49 ¬ ;17,00 ¬ ;-44%;9,49 ¬ /L
+02/05/2023;epicerie-salee-bio;Sauce Tomate Provençale Bio;La Fourche;350 g;1,89 ¬ ;2,94 ¬ ;-36%;5,40 ¬ /kg
+02/05/2023;epicerie-salee-bio;Pesto Vert Bio;La Fourche;180 g;2,89 ¬ ;5,78 ¬ ;-50%;16,06 ¬ /kg
+02/05/2023;epicerie-salee-bio;Pois Chiches au Naturel France Bio;La Fourche;420 g net ég.;2,99 ¬ ;4,80 ¬ ;-38%;7,12 ¬ /kg
+02/05/2023;epicerie-salee-bio;Tomates Séchées à l'Huile Bio;La Fourche;280 g;3,39 ¬ ;5,91 ¬ ;-43%;12,11 ¬ /kg
+02/05/2023;epicerie-salee-bio;Moutarde de Dijon Bio;La Fourche;350 g;2,10 ¬ ;3,11 ¬ ;-32%;6,00 ¬ /kg
+02/05/2023;epicerie-salee-bio;Haricots verts coupés Extra fins France Bio;La Fourche;360 g net ég.;2,99 ¬ ;4,36 ¬ ;-31%;8,31 ¬ /kg
+02/05/2023;epicerie-salee-bio;Sauce Tomate Basilic Bio;La Fourche;350 g;1,94 ¬ ;2,99 ¬ ;-35%;5,54 ¬ /kg
+02/05/2023;epicerie-salee-bio;Vinaigre Balsamique de Modène IGP Bio;La Fourche;1,00 L;5,95 ¬ ;9,66 ¬ ;-38%;5,95 ¬ /L
+02/05/2023;epicerie-salee-bio;Maïs Doux du Sud-Ouest Bio;La Fourche;230 g net ég.;1,99 ¬ ;2,75 ¬ ;-28%;8,65 ¬ /kg
+02/05/2023;epicerie-salee-bio;Tomates Concassées Bio;La Fourche;400 g;1,25 ¬ ;1,65 ¬ ;-24%;3,13 ¬ /kg
+02/05/2023;epicerie-salee-bio;Torsades au Sarrasin Bio;La Fourche;250 g;2,49 ¬ ;3,50 ¬ ;-29%;9,96 ¬ /kg
+02/05/2023;epicerie-salee-bio;Huile de Tournesol Vierge Origine France Bio;La Fourche;1,00 L;4,74 ¬ ;6,61 ¬ ;-28%;4,74 ¬ /L
+02/05/2023;epicerie-salee-bio;Pesto Rouge Bio;La Fourche;190 g;2,95 ¬ ;5,30 ¬ ;-44%;15,53 ¬ /kg
+02/05/2023;epicerie-salee-bio;Huile de Colza Vierge Bio;La Fourche;1,00 L;4,99 ¬ ;7,97 ¬ ;-37%;4,99 ¬ /L
+02/05/2023;epicerie-salee-bio;Houmous Bio;La Fourche;180 g;2,49 ¬ ;5,24 ¬ ;-52%;13,83 ¬ /kg
+02/05/2023;epicerie-salee-bio;Olives Kalamata Dénoyautées Bio;La Fourche;160 g net ég.;2,55 ¬ ;4,01 ¬ ;-36%;15,94 ¬ /kg
+02/05/2023;epicerie-salee-bio;Huile d'Olive Vierge Extra Origine Espagne Bio;La Fourche;3,00 L;26,45 ¬ ;34,04 ¬ ;-22%;8,82 ¬ /L
+02/05/2023;epicerie-salee-bio;Torsades de Lentilles Corail Bio;La Fourche;250 g;2,49 ¬ ;3,35 ¬ ;-26%;9,96 ¬ /kg
+02/05/2023;epicerie-salee-bio;Haricots Rouges France Bio;La Fourche;425 g net ég.;3,69 ¬ ;6,05 ¬ ;-39%;8,68 ¬ /kg
+02/05/2023;epicerie-salee-bio;Ketchup Bio;La Fourche;560 g;2,95 ¬ ;4,19 ¬ ;-30%;5,27 ¬ /kg
+02/05/2023;epicerie-salee-bio;Concentré de Tomates Bio;La Fourche;200 g;1,74 ¬ ;2,43 ¬ ;-28%;8,70 ¬ /kg
+02/05/2023;epicerie-salee-bio;Huile de Tournesol Vierge Origine France Bio;La Fourche;3,00 L;13,95 ¬ ;25,45 ¬ ;-45%;4,65 ¬ /L
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Poivrons Grillés à l'Huile Bio;La Fourche;190 g;2,89 ¬ ;4,65 ¬ ;-38%;15,21 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Courgettes à la Provençale Bio;La Fourche;1 kg;3,99 ¬ ;7,48 ¬ ;-47%;3,99 ¬ /kg
+02/05/2023;epicerie-salee-bio;Moutarde de Dijon Bio;La Fourche;720 g;4,30 ¬ ;6,68 ¬ ;-36%;5,97 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Torsades de Pois Chiches Bio;La Fourche;250 g;2,49 ¬ ;3,58 ¬ ;-30%;9,96 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Tortilla Wraps au blé complet Bio - x6;Acapulco;240 g;1,73 ¬ ;2,37 ¬ ;-27%;7,21 ¬ /kg
+02/05/2023;epicerie-salee-bio;Olives Vertes Dénoyautées Bio;La Fourche;160 g net ég.;2,28 ¬ ;3,38 ¬ ;-33%;14,25 ¬ /kg
+02/05/2023;epicerie-salee-bio;Cornichons Aigre-Doux Bio;La Fourche;360 g net ég.;3,98 ¬ ;6,71 ¬ ;-41%;11,06 ¬ /kg
+02/05/2023;epicerie-salee-bio;Bouillon De Légumes Cubes Bio;Philia;66 g;0,99 ¬ ;1,36 ¬ ;-27%;15,00 ¬ /kg
+02/05/2023;epicerie-salee-bio;Flageolets France Bio;La Fourche;420 g net ég.;2,99 ¬ ;5,53 ¬ ;-46%;7,12 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Torsades de Pois Cassés Bio;La Fourche;250 g;2,49 ¬ ;3,65 ¬ ;-32%;9,96 ¬ /kg
+02/05/2023;epicerie-salee-bio;Artichauts Grillés à l'Huile Bio;La Fourche;190 g;2,99 ¬ ;3,78 ¬ ;-21%;15,74 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Levure maltée en paillettes;Philia;250 g;3,52 ¬ ;4,99 ¬ ;-29%;14,08 ¬ /kg
+02/05/2023;epicerie-salee-bio;Cannelle Moulue Bio;La Fourche;150 g;3,98 ¬ ;9,47 ¬ ;-58%;26,53 ¬ /kg
+02/05/2023;epicerie-salee-bio;Torsades Maïs-Riz Bio;La Fourche;250 g;1,95 ¬ ;2,46 ¬ ;-21%;7,80 ¬ /kg
+02/05/2023;epicerie-salee-bio;Curry Jaune Moulu Bio;La Fourche;150 g;4,59 ¬ ;8,81 ¬ ;-48%;30,60 ¬ /kg
+02/05/2023;epicerie-salee-bio;Tomates Séchées à l'Huile Bio;La Fourche;190 g;2,55 ¬ ;4,22 ¬ ;-40%;13,42 ¬ /kg
+02/05/2023;epicerie-salee-bio;Tomates Pelées Bio;La Fourche;400 g;1,29 ¬ ;1,55 ¬ ;-17%;3,23 ¬ /kg
+02/05/2023;epicerie-salee-bio;Tofu Fumé Bio;Moulin Des Moines;200 g;2,45 ¬ ;3,15 ¬ ;-22%;12,25 ¬ /kg
+02/05/2023;epicerie-salee-bio;Coulis de Tomates Bio;La Fourche;350 g;1,79 ¬ ;2,55 ¬ ;-30%;5,11 ¬ /kg
+02/05/2023;epicerie-salee-bio;Mayonnaise Bio;La Fourche;320 g;3,25 ¬ ;4,25 ¬ ;-24%;10,16 ¬ /kg
+02/05/2023;epicerie-salee-bio;Pesto Vert Vegan Bio;La Fourche;180 g;3,05 ¬ ;4,63 ¬ ;-34%;16,94 ¬ /kg
+02/05/2023;epicerie-salee-bio;Crème Entière Liquide Stérilisée UHT Bio - 3x20cl;Natur'Avenir;600 mL;3,98 ¬ ;5,16 ¬ ;-23%;6,63 ¬ /L
+02/05/2023;epicerie-salee-bio;Tapenade d'Olives Vertes Bio;La Fourche;180 g;2,99 ¬ ;7,54 ¬ ;-60%;16,61 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Curcuma Moulu Bio;La Fourche;250 g;3,59 ¬ ;10,13 ¬ ;-65%;14,36 ¬ /kg
+02/05/2023;epicerie-salee-bio;Pois Chiches Bio;Elibio;265 g;1,19 ¬ ;1,49 ¬ ;-20%;4,49 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Tofu Nature Bio;Moulin Des Moines;200 g;2,40 ¬ ;3,12 ¬ ;-23%;12,00 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Soja Cuisine Origine France Bio - 3x20cl;Soy;600 mL;3,30 ¬ ;4,41 ¬ ;-25%;5,50 ¬ /L
+02/05/2023;epicerie-salee-bio;Chips de lentilles Bio;Lima;90 g;1,50 ¬ ;2,08 ¬ ;-28%;16,67 ¬ /kg
+02/05/2023;epicerie-salee-bio;Crème d'Artichauts Bio;La Fourche;190 g;3,29 ¬ ;6,15 ¬ ;-47%;17,32 ¬ /kg
+02/05/2023;epicerie-salee-bio;Lentilles Vertes Bio;La Fourche;420 g net ég.;2,99 ¬ ;4,38 ¬ ;-32%;7,12 ¬ /kg
+02/05/2023;epicerie-salee-bio;Délice de Tomate Séchées Bio;La Fourche;200 g;2,79 ¬ ;6,87 ¬ ;-59%;13,95 ¬ /kg
+02/05/2023;epicerie-salee-bio;Tomates Concassées Bio;La Fourche;800 g;2,38 ¬ ;2,97 ¬ ;-20%;2,97 ¬ /kg
+02/05/2023;epicerie-salee-bio;Chair de Tomates Bio;La Fourche;400 g;1,86 ¬ ;2,35 ¬ ;-21%;4,65 ¬ /kg
+02/05/2023;epicerie-salee-bio;Passata Bio;La Fourche;690 g;1,80 ¬ ;2,03 ¬ ;-11%;2,61 ¬ /kg
+02/05/2023;epicerie-salee-bio;Huile d'Olive Vierge Extra Origine Espagne Bio;La Fourche;1,00 L;8,95 ¬ ;10,07 ¬ ;-11%;8,95 ¬ /L
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Moutarde à l'Ancienne Bio;La Fourche;340 g;2,69 ¬ ;3,91 ¬ ;-31%;7,91 ¬ /kg
+02/05/2023;epicerie-salee-bio;Avoine Cuisine Bio;Lima;200 mL;0,90 ¬ ;1,24 ¬ ;-27%;4,50 ¬ /L
+02/05/2023;epicerie-salee-bio;Petits Pois Très Fins & Carottes Rondelles France Bio;La Fourche;420 g net ég.;3,69 ¬ ;5,03 ¬ ;-27%;8,79 ¬ /kg
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Haricots Rouges Bio;Luce;400 g net ég.;1,50 ¬ ;1,84 ¬ ;-18%;3,75 ¬ /kg
+02/05/2023;epicerie-salee-bio;Huile de Lin Vierge Bio;Bio Planete;250 mL;4,75 ¬ ;6,67 ¬ ;-29%;19,00 ¬ /L
+02/05/2023;epicerie-salee-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-salee-bio;Huile de Colza Vierge Bio;La Fourche;3,00 L;13,95 ¬ ;21,89 ¬ ;-36%;4,65 ¬ /L
+02/05/2023;epicerie-salee-bio;Spaghetti Demi-Complets Bio;Bio Pour Tous;500 g;1,25 ¬ ;1,55 ¬ ;-19%;2,50 ¬ /kg
+02/05/2023;epicerie-salee-bio;Cumin Moulu Bio;La Fourche;150 g;7,35 ¬ ;12,62 ¬ ;-42%;49,00 ¬ /kg
+02/05/2023;epicerie-salee-bio;Maïzena Bio;Joannusmolen;250 g;2,89 ¬ ;3,83 ¬ ;-25%;11,56 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée 100% Cacahuètes Bio;La Fourche;500 g;4,90 ¬ ;7,17 ¬ ;-32%;9,80 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Tahin 100% Sésame Demi-Complet Bio;La Fourche;500 g;5,29 ¬ ;8,14 ¬ ;-35%;10,58 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Pâte à Tartiner Chocolat Noisettes Bio;La Fourche;700 g;6,89 ¬ ;9,61 ¬ ;-28%;9,84 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée 100% Noisettes Bio;La Fourche;500 g;11,20 ¬ ;16,18 ¬ ;-31%;22,40 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de blé T80 Bio;La Fourche;1 kg;1,80 ¬ ;2,44 ¬ ;-26%;1,80 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de Blé T45 Bio;La Fourche;1 kg;1,80 ¬ ;2,48 ¬ ;-27%;1,80 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de sarrasin Bio;La Fourche;1 kg;3,69 ¬ ;4,83 ¬ ;-24%;3,69 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Chocolat noir 85% République Dominicaine Bio et Équitable;La Fourche;100 g;1,95 ¬ ;2,55 ¬ ;-24%;19,50 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée 100% Amandes Complètes Bio;La Fourche;500 g;10,65 ¬ ;13,75 ¬ ;-23%;21,30 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Pâte à Tartiner Chocolat Noisettes Sans Lait Bio;La Fourche;350 g;3,99 ¬ ;6,42 ¬ ;-38%;11,40 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée 100% Amandes Blanches Toastées Bio;La Fourche;500 g;11,80 ¬ ;17,14 ¬ ;-31%;23,60 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine D'Orge Mondée Origine France Bio;Celnat;500 g;1,40 ¬ ;2,04 ¬ ;-31%;2,80 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Chocolat Noir Dessert Pâtissier 56% Bio et Équitable;La Fourche;200 g;2,65 ¬ ;3,51 ¬ ;-25%;13,25 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de Blé T110 Bio;La Fourche;2,5 kg;3,90 ¬ ;5,25 ¬ ;-26%;1,56 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée 100% Noix de Cajou Bio;La Fourche;500 g;10,90 ¬ ;16,25 ¬ ;-33%;21,80 ¬ /kg
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;Noix de Cajou Nature Bio;La Fourche;2,5 kg;33,50 ¬ ;63,07 ¬ ;-47%;13,40 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Biobis au Chocolat Bio;Pural;300 g;1,90 ¬ ;2,74 ¬ ;-31%;6,33 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine De Riz Complet Bio;Celnat;1 kg;3,95 ¬ ;6,00 ¬ ;-34%;3,95 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Muesli Croustillant Nature Bio;La Fourche;1 kg;4,59 ¬ ;6,49 ¬ ;-29%;4,59 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée Pomme Vanille Bio;La Fourche;915 g;4,65 ¬ ;6,44 ¬ ;-28%;5,08 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Chocolat Noir 90% Pérou Bio et Equitable;La Fourche;100 g;1,99 ¬ ;2,78 ¬ ;-28%;19,90 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Confiture Extra de Fraise Bio;Saveurs et Fruits;660 g;3,95 ¬ ;6,34 ¬ ;-38%;5,98 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de blé T55 Bio;La Fourche;1 kg;1,80 ¬ ;2,61 ¬ ;-31%;1,80 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée Pommes Bananes Bio;La Fourche;915 g;4,19 ¬ ;6,66 ¬ ;-37%;4,58 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Muesli Croustillant Duo Choco Bio;La Fourche;1 kg;5,95 ¬ ;7,27 ¬ ;-18%;5,95 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Poudre à Lever Sans Gluten Bio;Natali;14 g;0,38 ¬ ;1,00 ¬ ;-62%;27,14 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Chocolat Noir Dessert Corsé 70% Bio et Equitable;La Fourche;200 g;3,49 ¬ ;4,48 ¬ ;-22%;17,45 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée Pommes Bio;La Fourche;915 g;3,50 ¬ ;4,12 ¬ ;-15%;3,83 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Chocolat Noir 70% Noisettes Entières Bio et Equitable;La Fourche;180 g;4,05 ¬ ;6,23 ¬ ;-35%;22,50 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée Pommes Poires Bio;La Fourche;915 g;3,98 ¬ ;4,99 ¬ ;-20%;4,35 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Miel Bio Toutes Fleurs Origine Bulgarie;La Fourche;1 kg;10,60 ¬ ;14,67 ¬ ;-28%;10,60 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Dattes Fraîches Mazafati Bio et équitables;Pépite;500 g;4,99 ¬ ;6,90 ¬ ;-28%;9,98 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Miel de Montagne Origine France Bio;La Fourche;250 g;5,50 ¬ ;7,79 ¬ ;-29%;22,00 ¬ /kg
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;Spécialité Pomme Châtaigne Bio;La Fourche;700 g;4,15 ¬ ;5,56 ¬ ;-25%;5,93 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Sirop D'Agave Bio;Philia;690 g;4,98 ¬ ;6,58 ¬ ;-24%;7,22 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Flocons d'Avoine Sans Gluten Bio;Grillon D'Or;500 g;2,75 ¬ ;3,52 ¬ ;-22%;5,50 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Pruneaux d'Agen Entiers Très Gros IGP Bio;La Fourche;250 g;3,35 ¬ ;4,38 ¬ ;-24%;13,40 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Chocolat Noir à la Fleur de Sel Bio et Équitable;La Fourche;100 g;1,99 ¬ ;2,23 ¬ ;-11%;19,90 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Pâte à Tartiner Chocolat Noisettes Bio;La Fourche;350 g;3,95 ¬ ;4,98 ¬ ;-21%;11,29 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Chocolat Noir 70% Bio et Équitable;La Fourche;100 g;1,80 ¬ ;2,02 ¬ ;-11%;18,00 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Muesli Croustillant 7 fruits Bio;La Fourche;1 kg;5,98 ¬ ;8,03 ¬ ;-26%;5,98 ¬ /kg
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;Tartines Ki'Kroc Châtaigne Bio;Grillon D'Or;150 g;3,16 ¬ ;4,44 ¬ ;-29%;21,07 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée D'Amandes Complètes Bio;Jean Hervé;700 g;17,95 ¬ ;23,20 ¬ ;-23%;25,64 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée de Pommes Fruits Rouges Bio;La Fourche;915 g;4,90 ¬ ;7,15 ¬ ;-31%;5,36 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée Pommes Mangues Bio;La Fourche;915 g;4,50 ¬ ;6,40 ¬ ;-30%;4,92 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Chocolat au Lait 41% Bio et Équitable;La Fourche;100 g;1,99 ¬ ;2,45 ¬ ;-19%;19,90 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Galettes De Riz Bio;Lima;100 g;0,83 ¬ ;1,64 ¬ ;-49%;8,30 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de blé T110 Bio;La Fourche;1 kg;1,80 ¬ ;2,47 ¬ ;-27%;1,80 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Krounchy Chocolat Bio;Grillon D'Or;1 kg;6,26 ¬ ;8,10 ¬ ;-23%;6,26 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de blé T65 Bio;La Fourche;2,5 kg;4,23 ¬ ;4,65 ¬ ;-9%;1,69 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de Blé T150 Bio;La Fourche;1 kg;1,89 ¬ ;2,25 ¬ ;-16%;1,89 ¬ /kg
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;Farine de blé T55 Bio;La Fourche;2,5 kg;4,23 ¬ ;4,69 ¬ ;-10%;1,69 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Purée Pomme Abricot Bio;La Fourche;915 g;4,55 ¬ ;6,06 ¬ ;-25%;4,97 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Ferment Lyophilisé Yaourt Bio - 2 X 6G;Natali;12 g;2,53 ¬ ;3,36 ¬ ;-25%;210,83 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Amandes Complètes Natures Bio;La Fourche;2,5 kg;36,49 ¬ ;50,20 ¬ ;-27%;14,60 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Xylitol en Poudre;Nature et Partage;500 g;9,45 ¬ ;12,76 ¬ ;-26%;18,90 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine Complète 5 Céréales Bio;Celnat;3 kg;6,59 ¬ ;9,74 ¬ ;-32%;2,20 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Cacahuètes Décortiquées Grillées Nature Bio;La Fourche;2,5 kg;16,75 ¬ ;25,38 ¬ ;-34%;6,70 ¬ /kg
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;Son d'Avoine Bio;Celnat;500 g;2,44 ¬ ;3,04 ¬ ;-20%;4,88 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Pâte De Dattes Bio;Philia;500 g;2,75 ¬ ;3,44 ¬ ;-20%;5,50 ¬ /kg
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;Farine de Seigle T130 Bio;Celnat;1 kg;2,17 ¬ ;2,65 ¬ ;-18%;2,17 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Petits Flocons D'Avoine France Bio;Celnat;500 g;1,79 ¬ ;2,27 ¬ ;-21%;3,58 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Crème de Coco (22% de MG) Bio;Bio Pour Tous;400 mL;1,81 ¬ ;2,13 ¬ ;-15%;4,52 ¬ /L
+02/05/2023;epicerie-sucree-bio;Purée De Pommes Demeter Sans Sucres Ajoutés Bio;Côteaux Nantais;630 g;2,91 ¬ ;3,56 ¬ ;-18%;4,62 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Biscuits Fourrés Choc'O Lait Bio;Pural;85 g;1,19 ¬ ;1,49 ¬ ;-20%;14,00 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Knäcke à l'épeautre Demeter Bio;Pural;250 g;1,82 ¬ ;2,47 ¬ ;-26%;7,28 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Farine de blé T65 Bio;La Fourche;1 kg;1,80 ¬ ;2,04 ¬ ;-12%;1,80 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Cookies aux pépites de chocolat et noisettes Bio;Le Moulin Du Pivert;175 g;2,69 ¬ ;3,47 ¬ ;-22%;15,37 ¬ /kg
+02/05/2023;epicerie-sucree-bio;Poudre à Lever Sans Phosphate Bio - 8x10g;Culinat;80 g;1,20 ¬ ;1,39 ¬ ;-14%;15,00 ¬ /kg
+02/05/2023;epicerie-sucree-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;epicerie-sucree-bio;Flakes Sarrasin Bio;Grillon D'Or;200 g;2,99 ¬ ;3,83 ¬ ;-22%;14,95 ¬ /kg
+02/05/2023;vrac-bio;Conchiglie Blanches Bio En Vrac;La Fourche;1 kg;1,99 ¬ ;5,60 ¬ ;-64%;1,99 ¬ /kg
+02/05/2023;vrac-bio;Graines de Tournesol Bio En Vrac;La Fourche;500 g;1,85 ¬ ;2,76 ¬ ;-33%;3,70 ¬ /kg
+02/05/2023;vrac-bio;Graines De Chia Bio En Vrac;La Fourche;500 g;4,45 ¬ ;7,62 ¬ ;-42%;8,90 ¬ /kg
+02/05/2023;vrac-bio;Lentilles Vertes Bio En Vrac;La Fourche;1 kg;4,45 ¬ ;6,54 ¬ ;-32%;4,45 ¬ /kg
+02/05/2023;vrac-bio;Lentilles Corail Bio En Vrac;La Fourche;1 kg;3,75 ¬ ;5,28 ¬ ;-29%;3,75 ¬ /kg
+02/05/2023;vrac-bio;Graines de Lin Brun Bio En Vrac;La Fourche;500 g;2,17 ¬ ;4,15 ¬ ;-48%;4,34 ¬ /kg
+02/05/2023;vrac-bio;Couscous Complet Bio En Vrac;La Fourche;1 kg;2,65 ¬ ;4,17 ¬ ;-36%;2,65 ¬ /kg
+02/05/2023;vrac-bio;Sucre de Coco Bio En Vrac;La Fourche;1 kg;6,80 ¬ ;11,92 ¬ ;-43%;6,80 ¬ /kg
+02/05/2023;vrac-bio;Raisins Secs Sultanines Bio En Vrac;La Fourche;500 g;2,29 ¬ ;3,33 ¬ ;-31%;4,58 ¬ /kg
+02/05/2023;vrac-bio;Cranberries Bio En Vrac;La Fourche;250 g;3,78 ¬ ;5,38 ¬ ;-30%;15,12 ¬ /kg
+02/05/2023;vrac-bio;Riz Basmati Complet Bio En Vrac;La Fourche;1 kg;3,85 ¬ ;5,57 ¬ ;-31%;3,85 ¬ /kg
+02/05/2023;vrac-bio;Penne Complète Bio En Vrac;La Fourche;1 kg;2,30 ¬ ;3,33 ¬ ;-31%;2,30 ¬ /kg
+02/05/2023;vrac-bio;Pois Chiche Bio En Vrac;La Fourche;1 kg;3,20 ¬ ;5,14 ¬ ;-38%;3,20 ¬ /kg
+02/05/2023;vrac-bio;Gros Flocons d'Avoine Bio En Vrac;La Fourche;1 kg;2,50 ¬ ;3,65 ¬ ;-32%;2,50 ¬ /kg
+02/05/2023;vrac-bio;Riz Basmati Blanc Bio En Vrac;La Fourche;1 kg;3,70 ¬ ;5,25 ¬ ;-30%;3,70 ¬ /kg
+02/05/2023;vrac-bio;Quinoa Blanc Bio En Vrac;La Fourche;1 kg;6,30 ¬ ;9,66 ¬ ;-35%;6,30 ¬ /kg
+02/05/2023;vrac-bio;Amandes Décortiquées Bio En Vrac;La Fourche;500 g;7,30 ¬ ;9,46 ¬ ;-23%;14,60 ¬ /kg
+02/05/2023;vrac-bio;Coquillettes semi-complètes Bio En Vrac;La Fourche;1 kg;2,10 ¬ ;2,74 ¬ ;-23%;2,10 ¬ /kg
+02/05/2023;vrac-bio;Penne Blanches Bio En Vrac;La Fourche;1 kg;2,30 ¬ ;3,42 ¬ ;-33%;2,30 ¬ /kg
+02/05/2023;vrac-bio;Flocons 5 Céréales Bio En Vrac;La Fourche;1 kg;2,85 ¬ ;4,79 ¬ ;-41%;2,85 ¬ /kg
+02/05/2023;vrac-bio;Petits Flocons d'Avoine France Bio En Vrac;La Fourche;1 kg;2,50 ¬ ;3,21 ¬ ;-22%;2,50 ¬ /kg
+02/05/2023;vrac-bio;Noix du Brésil Bio En Vrac;La Fourche;500 g;8,50 ¬ ;12,53 ¬ ;-32%;17,00 ¬ /kg
+02/05/2023;vrac-bio;Noisettes Bio En Vrac;La Fourche;500 g;7,98 ¬ ;10,47 ¬ ;-24%;15,96 ¬ /kg
+02/05/2023;vrac-bio;Sucre Roux Bio En Vrac;La Fourche;1 kg;2,99 ¬ ;4,19 ¬ ;-29%;2,99 ¬ /kg
+02/05/2023;vrac-bio;Boulgour Bio En Vrac;La Fourche;1 kg;2,70 ¬ ;4,30 ¬ ;-37%;2,70 ¬ /kg
+02/05/2023;vrac-bio;Sarrasin Décortiqué Bio En Vrac;La Fourche;1 kg;4,30 ¬ ;7,21 ¬ ;-40%;4,30 ¬ /kg
+02/05/2023;vrac-bio;Chips de Banane Bio En Vrac;La Fourche;500 g;3,30 ¬ ;5,12 ¬ ;-36%;6,60 ¬ /kg
+02/05/2023;vrac-bio;Café en Grains Équilibré - Équitable et Bio En Vrac;La Fourche;1 kg;14,30 ¬ ;20,40 ¬ ;-30%;14,30 ¬ /kg
+02/05/2023;vrac-bio;Baies De Goji Bio En Vrac;La Fourche;250 g;6,29 ¬ ;9,00 ¬ ;-30%;25,16 ¬ /kg
+02/05/2023;vrac-bio;Pois Cassés Bio En Vrac;La Fourche;1 kg;3,99 ¬ ;6,60 ¬ ;-40%;3,99 ¬ /kg
+02/05/2023;vrac-bio;Couscous Demi Complet Bio En Vrac;La Fourche;1 kg;2,85 ¬ ;5,49 ¬ ;-48%;2,85 ¬ /kg
+02/05/2023;vrac-bio;Sucre de Betterave Bio En Vrac;La Fourche;1 kg;3,25 ¬ ;4,43 ¬ ;-27%;3,25 ¬ /kg
+02/05/2023;vrac-bio;Sucre de Canne Complet Dulcita Equitable et Bio En Vrac;La Fourche;1 kg;3,99 ¬ ;5,26 ¬ ;-24%;3,99 ¬ /kg
+02/05/2023;vrac-bio;Petit Epeautre Bio En Vrac;La Fourche;1 kg;3,50 ¬ ;5,68 ¬ ;-38%;3,50 ¬ /kg
+02/05/2023;vrac-bio;Cerneaux De Noix Bio En Vrac;La Fourche;250 g;7,59 ¬ ;10,38 ¬ ;-27%;30,36 ¬ /kg
+02/05/2023;vrac-bio;Amandes Blanches Mondées Bio En Vrac;La Fourche;250 g;4,59 ¬ ;7,50 ¬ ;-39%;18,36 ¬ /kg
+02/05/2023;vrac-bio;Coquillettes Complètes Bio En Vrac;La Fourche;1 kg;2,10 ¬ ;3,14 ¬ ;-33%;2,10 ¬ /kg
+02/05/2023;vrac-bio;Mélange de Graines pour Salade Bio En Vrac;La Fourche;250 g;3,94 ¬ ;5,75 ¬ ;-31%;15,76 ¬ /kg
+02/05/2023;vrac-bio;Haricots Rouges Bio En Vrac;La Fourche;1 kg;5,50 ¬ ;8,27 ¬ ;-33%;5,50 ¬ /kg
+02/05/2023;vrac-bio;Noix De Cajou Nature Bio En Vrac;La Fourche;500 g;9,40 ¬ ;11,62 ¬ ;-19%;18,80 ¬ /kg
+02/05/2023;vrac-bio;Figues Protoben Bio En Vrac;La Fourche;500 g;5,59 ¬ ;7,65 ¬ ;-27%;11,18 ¬ /kg
+02/05/2023;vrac-bio;Sucre de Canne Blond Bio En Vrac;La Fourche;1 kg;2,70 ¬ ;3,27 ¬ ;-17%;2,70 ¬ /kg
+02/05/2023;vrac-bio;Riz Thaï Demi-Complet Bio En Vrac;La Fourche;1 kg;3,99 ¬ ;4,97 ¬ ;-20%;3,99 ¬ /kg
+02/05/2023;vrac-bio;Penne Tricolores Bio En Vrac;La Fourche;1 kg;3,99 ¬ ;5,35 ¬ ;-25%;3,99 ¬ /kg
+02/05/2023;vrac-bio;Mélange de Fruits à Coque En Vrac;La Fourche;250 g;4,99 ¬ ;6,56 ¬ ;-24%;19,96 ¬ /kg
+02/05/2023;vrac-bio;Raisins Secs Thompson Bio En Vrac;La Fourche;500 g;2,45 ¬ ;3,90 ¬ ;-37%;4,90 ¬ /kg
+02/05/2023;vrac-bio;Mélange Etudiant Bio En Vrac;La Fourche;500 g;7,78 ¬ ;9,90 ¬ ;-21%;15,56 ¬ /kg
+02/05/2023;vrac-bio;Macaronis semi-complets Bio En Vrac;La Fourche;1 kg;2,40 ¬ ;3,13 ¬ ;-23%;2,40 ¬ /kg
+02/05/2023;vrac-bio;Riz de Camargue Long Blanc Bio En Vrac;La Fourche;1 kg;4,50 ¬ ;5,95 ¬ ;-24%;4,50 ¬ /kg
+02/05/2023;vrac-bio;Quinoa Tricolore Bio En Vrac;La Fourche;1 kg;7,20 ¬ ;9,20 ¬ ;-22%;7,20 ¬ /kg
+02/05/2023;vrac-bio;Couscous Blanc Bio En Vrac;La Fourche;1 kg;2,95 ¬ ;4,57 ¬ ;-35%;2,95 ¬ /kg
+02/05/2023;vrac-bio;Noix du Brésil Bio En Vrac;La Fourche;250 g;4,50 ¬ ;6,44 ¬ ;-30%;18,00 ¬ /kg
+02/05/2023;vrac-bio;Graines De Chia Bio En Vrac;La Fourche;250 g;2,39 ¬ ;2,99 ¬ ;-20%;9,56 ¬ /kg
+02/05/2023;vrac-bio;Graines de Sésame Bio En Vrac;La Fourche;500 g;2,60 ¬ ;3,10 ¬ ;-16%;5,20 ¬ /kg
+02/05/2023;vrac-bio;Cacahuètes Grillées Natures Bio En Vrac;La Fourche;500 g;3,70 ¬ ;4,33 ¬ ;-15%;7,40 ¬ /kg
+02/05/2023;vrac-bio;Noix de Cajou Grillée Nature Bio En Vrac;La Fourche;500 g;9,65 ¬ ;14,00 ¬ ;-31%;19,30 ¬ /kg
+02/05/2023;vrac-bio;Coquillettes Blanches Bio En Vrac;La Fourche;1 kg;2,30 ¬ ;2,98 ¬ ;-23%;2,30 ¬ /kg
+02/05/2023;vrac-bio;Riz de Camargue Long Demi-Complet Bio En Vrac;La Fourche;1 kg;4,40 ¬ ;5,23 ¬ ;-16%;4,40 ¬ /kg
+02/05/2023;vrac-bio;Graines de Millet Bio En Vrac;La Fourche;1 kg;3,10 ¬ ;4,50 ¬ ;-31%;3,10 ¬ /kg
+02/05/2023;vrac-bio;Muesli au Chocolat Noir Bio En Vrac;La Fourche;1 kg;6,90 ¬ ;8,40 ¬ ;-18%;6,90 ¬ /kg
+02/05/2023;vrac-bio;Pistaches Coques Nature Bio En Vrac;La Fourche;250 g;5,80 ¬ ;7,88 ¬ ;-26%;23,20 ¬ /kg
+02/05/2023;vrac-bio;Riz Thaï Blanc Bio En Vrac;La Fourche;1 kg;3,99 ¬ ;4,99 ¬ ;-20%;3,99 ¬ /kg
+02/05/2023;vrac-bio;Blé Tendre Complet Bio En Vrac;La Fourche;1 kg;1,59 ¬ ;1,99 ¬ ;-20%;1,59 ¬ /kg
+02/05/2023;vrac-bio;Pâtes Alphabet Bio En Vrac;La Fourche;1 kg;2,20 ¬ ;6,70 ¬ ;-67%;2,20 ¬ /kg
+02/05/2023;vrac-bio;Haricots Blancs Bio En Vrac;La Fourche;1 kg;5,05 ¬ ;7,10 ¬ ;-29%;5,05 ¬ /kg
+02/05/2023;vrac-bio;Maïs Pop Corn Bio En Vrac;La Fourche;1 kg;2,95 ¬ ;3,80 ¬ ;-22%;2,95 ¬ /kg
+02/05/2023;vrac-bio;Abricots Bruns Bio En Vrac;La Fourche;500 g;6,68 ¬ ;7,97 ¬ ;-16%;13,36 ¬ /kg
+02/05/2023;vrac-bio;Riz Basmati Semi-Complet Bio En Vrac;La Fourche;1 kg;3,80 ¬ ;5,36 ¬ ;-29%;3,80 ¬ /kg
+02/05/2023;vrac-bio;Trio de Riz Thaï Complet Bio En Vrac;La Fourche;1 kg;4,99 ¬ ;6,25 ¬ ;-20%;4,99 ¬ /kg
+02/05/2023;vrac-bio;Gingembre Confit Cubes Bio En Vrac;La Fourche;500 g;5,89 ¬ ;7,33 ¬ ;-20%;11,78 ¬ /kg
+02/05/2023;vrac-bio;Noisettes Bio En Vrac;La Fourche;250 g;4,19 ¬ ;4,90 ¬ ;-14%;16,76 ¬ /kg
+02/05/2023;vrac-bio;Dahl de Lentilles Corail à la Noix de Coco Bio En Vrac;La Fourche;500 g;5,98 ¬ ;6,93 ¬ ;-14%;11,96 ¬ /kg
+02/05/2023;vrac-bio;Biscuits Apéro au Comté Bio En Vrac;La Fourche;250 g;4,35 ¬ ;6,25 ¬ ;-30%;17,40 ¬ /kg
+02/05/2023;vrac-bio;Noix de Coco Rapée Bio En Vrac;La Fourche;500 g;3,50 ¬ ;3,99 ¬ ;-12%;7,00 ¬ /kg
+02/05/2023;vrac-bio;Cerneaux De Noix en Morceaux Bio En Vrac;La Fourche;250 g;6,45 ¬ ;7,55 ¬ ;-15%;25,80 ¬ /kg
+02/05/2023;vrac-bio;Riz pour Risotto Bio En Vrac;La Fourche;1 kg;6,10 ¬ ;6,90 ¬ ;-12%;6,10 ¬ /kg
+02/05/2023;vrac-bio;Noix de Cajou Nature Bio En Vrac;La Fourche;250 g;5,20 ¬ ;5,91 ¬ ;-12%;20,80 ¬ /kg
+02/05/2023;vrac-bio;Noisettes Grillées Bio en vrac;La Fourche;500 g;9,10 ¬ ;15,00 ¬ ;-39%;18,20 ¬ /kg
+02/05/2023;vrac-bio;Muesli 5 Céréales Bio En Vrac;La Fourche;1 kg;4,90 ¬ ;5,90 ¬ ;-17%;4,90 ¬ /kg
+02/05/2023;vrac-bio;Mélange Eco Fruits Secs Bio En Vrac;La Fourche;250 g;3,55 ¬ ;3,90 ¬ ;-9%;14,20 ¬ /kg
+02/05/2023;boissons-bio;Café en Grains Equilibré Arabica Bio Equitable;La Fourche;1 kg;13,90 ¬ ;19,58 ¬ ;-29%;13,90 ¬ /kg
+02/05/2023;boissons-bio;Boisson Riz Bio;La Fourche;1,00 L;1,46 ¬ ;1,90 ¬ ;-23%;1,46 ¬ /L
+02/05/2023;boissons-bio;Jus de Citron Bio;La Fourche;1,00 L;4,35 ¬ ;5,93 ¬ ;-27%;4,35 ¬ /L
+02/05/2023;boissons-bio;Boisson Epeautre Bio;La Fourche;1,00 L;1,57 ¬ ;2,10 ¬ ;-25%;1,57 ¬ /L
+02/05/2023;boissons-bio;Café en Grains Corsé Bio Equitable;La Fourche;1 kg;12,90 ¬ ;18,69 ¬ ;-31%;12,90 ¬ /kg
+02/05/2023;boissons-bio;Café Moulu Equilibré Arabica Bio Equitable;La Fourche;500 g;6,90 ¬ ;8,87 ¬ ;-22%;13,80 ¬ /kg
+02/05/2023;boissons-bio;Lait Demi-Ecrémé Bio et Equitable - 6x1L;La Fourche;6,00 L;6,65 ¬ ;7,96 ¬ ;-16%;1,11 ¬ /L
+02/05/2023;boissons-bio;Lait de Vache Entier Stérilisé UHT Bio;Natur'Avenir;1,00 L;1,56 ¬ ;2,20 ¬ ;-29%;1,56 ¬ /L
+02/05/2023;boissons-bio;Boisson Soja Bio;La Fourche;1,00 L;1,29 ¬ ;1,55 ¬ ;-17%;1,29 ¬ /L
+02/05/2023;boissons-bio;Lait entier UHT 100% Breton Bio;Grandeur Nature;1,00 L;1,71 ¬ ;2,36 ¬ ;-28%;1,71 ¬ /L
+02/05/2023;boissons-bio;Tisane SOS Gorge Bio x 20;La Fourche;Pas de quantité;1,99 ¬ ;4,16 ¬ ;-52%;0,10 ¬ /unité
+02/05/2023;boissons-bio;Tisane Digestion Sereine Bio x 20;La Fourche;Pas de quantité;1,99 ¬ ;3,34 ¬ ;-40%;0,10 ¬ /unité
+02/05/2023;boissons-bio;Boisson Amande Légère Bio;La Fourche;1,00 L;1,89 ¬ ;2,20 ¬ ;-14%;1,89 ¬ /L
+02/05/2023;boissons-bio;Boisson Avoine Bio;La Fourche;1,00 L;1,57 ¬ ;1,81 ¬ ;-13%;1,57 ¬ /L
+02/05/2023;boissons-bio;Lait Demi-Ecrémé Bio et Equitable;La Fourche;1,00 L;1,11 ¬ ;1,35 ¬ ;-18%;1,11 ¬ /L
+02/05/2023;boissons-bio;Jus De Pommes Demeter Bib Bio;Côteaux Nantais;3,00 L;6,60 ¬ ;8,50 ¬ ;-22%;2,20 ¬ /L
+02/05/2023;boissons-bio;Boisson Riz Coco Bio;La Fourche;1,00 L;1,99 ¬ ;2,47 ¬ ;-19%;1,99 ¬ /L
+02/05/2023;boissons-bio;Café Moulu Corsé Bio Equitable;La Fourche;500 g;6,50 ¬ ;8,69 ¬ ;-25%;13,00 ¬ /kg
+02/05/2023;boissons-bio;Pur Jus D'Orange Bio;Vitamont;1,00 L;2,59 ¬ ;3,92 ¬ ;-34%;2,59 ¬ /L
+02/05/2023;boissons-bio;Lait de Brebis stérilisé entier Origine France Bio;Natur'Avenir;750 mL;3,99 ¬ ;5,44 ¬ ;-27%;5,32 ¬ /L
+02/05/2023;boissons-bio;Tisane Bonne Nuit Bio x 20;La Fourche;Pas de quantité;1,99 ¬ ;2,90 ¬ ;-31%;0,10 ¬ /unité
+02/05/2023;boissons-bio;Kombucha Framboise Bio;Gutsy Captain;1,00 L;3,21 ¬ ;4,39 ¬ ;-27%;3,21 ¬ /L
+02/05/2023;boissons-bio;Café Moulu Doux Arabica Bio Equitable;La Fourche;250 g;3,54 ¬ ;4,91 ¬ ;-28%;14,16 ¬ /kg
+02/05/2023;boissons-bio;Café Moulu Corsé Arabica Bio Equitable;La Fourche;250 g;3,95 ¬ ;6,50 ¬ ;-39%;15,80 ¬ /kg
+02/05/2023;boissons-bio;Café en Grains Doux Arabica Bio Equitable;La Fourche;1 kg;13,90 ¬ ;18,28 ¬ ;-24%;13,90 ¬ /kg
+02/05/2023;boissons-bio;Kombucha Gingembre Citron Bio;Gutsy Captain;1,00 L;3,21 ¬ ;4,39 ¬ ;-27%;3,21 ¬ /L
+02/05/2023;boissons-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;boissons-bio;Boisson Avoine PLUS Origine Italie Bio;Bio Pour Tous;1,00 L;1,59 ¬ ;1,91 ¬ ;-17%;1,59 ¬ /L
+02/05/2023;boissons-bio;Chicorée Instantanée Bio;Lima;100 g;3,41 ¬ ;4,38 ¬ ;-22%;34,10 ¬ /kg
+02/05/2023;boissons-bio;Boisson Amande Bio;Ecomil;1,00 L;2,95 ¬ ;3,86 ¬ ;-24%;2,95 ¬ /L
+02/05/2023;boissons-bio;Boisson Amande Intense Bio;La Fourche;1,00 L;2,75 ¬ ;3,13 ¬ ;-12%;2,75 ¬ /L
+02/05/2023;boissons-bio;Yannoh Instant (Éco Recharge) Bio;Lima;250 g;7,18 ¬ ;9,65 ¬ ;-26%;28,72 ¬ /kg
+02/05/2023;boissons-bio;Boisson Riz PLUS Bio;Bio Pour Tous;1,00 L;1,50 ¬ ;1,91 ¬ ;-21%;1,50 ¬ /L
+02/05/2023;boissons-bio;Lait Demi-écrémé UHT 100% Breton Bio;Grandeur Nature;1,00 L;1,39 ¬ ;2,28 ¬ ;-39%;1,39 ¬ /L
+02/05/2023;boissons-bio;Lait de Chèvre Entier stérilisé Origine France Bio;Natur'Avenir;750 mL;2,89 ¬ ;3,64 ¬ ;-21%;3,85 ¬ /L
+02/05/2023;boissons-bio;Jus de Citron Bio;La Fourche;250 mL;1,49 ¬ ;1,71 ¬ ;-13%;5,96 ¬ /L
+02/05/2023;boissons-bio;Extra Strong Gingembre à Diluer Bio;Vitamont;500 mL;8,99 ¬ ;11,89 ¬ ;-24%;17,98 ¬ /L
+02/05/2023;boissons-bio;Thé Vert Menthe Bio Equitable x 20;La Fourche;Pas de quantité;1,99 ¬ ;2,95 ¬ ;-33%;0,10 ¬ /unité
+02/05/2023;boissons-bio;Kombucha Nature Bio;Gutsy Captain;1,00 L;3,21 ¬ ;4,39 ¬ ;-27%;3,21 ¬ /L
+02/05/2023;boissons-bio;Chicorée Torréfiée Soluble Bio;Bio Pour Tous;200 g;5,50 ¬ ;7,05 ¬ ;-22%;27,50 ¬ /kg
+02/05/2023;boissons-bio;Café Moulu Doux Arabica Bio Equitable;La Fourche;500 g;6,99 ¬ ;10,28 ¬ ;-32%;13,98 ¬ /kg
+02/05/2023;boissons-bio;Cacao Maigre Sans Sucre Ajouté Bio;Abbaye De Sept Fons;200 g;3,98 ¬ ;5,02 ¬ ;-21%;19,90 ¬ /kg
+02/05/2023;boissons-bio;Ortie Piquante Feuilles Bio;Herbier De France;40 g;2,78 ¬ ;3,49 ¬ ;-20%;69,50 ¬ /kg
+02/05/2023;boissons-bio;Café Dosettes Compatibles Senseo Equilibré Arabica Bio x 36;Biodyssée;Pas de quantité;3,99 ¬ ;6,13 ¬ ;-35%;0,11 ¬ /unité
+02/05/2023;boissons-bio;Jus Cocktail de Légumes Lactofermenté Bio;Beutelsbacher;750 mL;2,98 ¬ ;3,78 ¬ ;-21%;3,97 ¬ /L
+02/05/2023;boissons-bio;Boisson Riz Nature Bio;Lima;1,00 L;1,70 ¬ ;2,10 ¬ ;-19%;1,70 ¬ /L
+02/05/2023;boissons-bio;Boisson So Soja à la Vanille Bio;Sojade;1,00 L;2,39 ¬ ;2,98 ¬ ;-20%;2,39 ¬ /L
+02/05/2023;boissons-bio;Framboisier Feuilles Bio et Equitable;Herbier De France;25 g;2,58 ¬ ;3,06 ¬ ;-16%;103,20 ¬ /kg
+02/05/2023;boissons-bio;Jus De Pommes Demeter BIB Bio;Côteaux Nantais;5,00 L;11,06 ¬ ;13,62 ¬ ;-19%;2,21 ¬ /L
+02/05/2023;boissons-bio;Infusion 3 Menthes Bio x 20;Pukka;Pas de quantité;3,79 ¬ ;5,35 ¬ ;-29%;0,19 ¬ /unité
+02/05/2023;boissons-bio;Boisson Coco Sans Sucres Sans Gluten Bio;Ecomil;1,00 L;2,85 ¬ ;3,44 ¬ ;-17%;2,85 ¬ /L
+02/05/2023;boissons-bio;Boisson Amande Nature Plus Bio;Ecomil;1,00 L;2,99 ¬ ;4,57 ¬ ;-35%;2,99 ¬ /L
+02/05/2023;boissons-bio;Pur Jus d'Orange de Méditerranée Bio;Vitamont;3,00 L;9,89 ¬ ;13,46 ¬ ;-27%;3,30 ¬ /L
+02/05/2023;boissons-bio;Boisson Bio Riz Amande Noisette;Lima;1,00 L;2,45 ¬ ;3,41 ¬ ;-28%;2,45 ¬ /L
+02/05/2023;boissons-bio;Boisson So Soja Nature Origine France Bio;Sojade;1,00 L;1,56 ¬ ;1,74 ¬ ;-10%;1,56 ¬ /L
+02/05/2023;boissons-bio;Jus de Betterave Lactofermenté Bio;Beutelsbacher;750 mL;2,98 ¬ ;3,52 ¬ ;-15%;3,97 ¬ /L
+02/05/2023;boissons-bio;Thé Vert Earl Grey Bergamote Bio et Equitable;Les Jardins De Gaïa;100 g;5,95 ¬ ;7,78 ¬ ;-24%;59,50 ¬ /kg
+02/05/2023;boissons-bio;Boisson Riz Chocolat Noisette Bio;Bonneterre;1,00 L;2,95 ¬ ;3,73 ¬ ;-21%;2,95 ¬ /L
+02/05/2023;boissons-bio;Thé Froid Thé Vert Gingembre Bio;Charitea;330 mL;1,91 ¬ ;2,44 ¬ ;-22%;5,79 ¬ /L
+02/05/2023;boissons-bio;Café Moulu Décaféiné Mexique Bio Equitable;Artisans Du Monde;250 g;5,56 ¬ ;7,33 ¬ ;-24%;22,24 ¬ /kg
+02/05/2023;boissons-bio;Thé Vert Menthe Bio Equitable;La Fourche;100 g;3,94 ¬ ;5,69 ¬ ;-31%;39,40 ¬ /kg
+02/05/2023;boissons-bio;Jus De Pomme en Conversion Bio;Pour Demain;1,00 L;2,99 ¬ ;3,85 ¬ ;-22%;2,99 ¬ /L
+02/05/2023;boissons-bio;Boisson Avoine Nature Origine France Bio;Bonneterre;1,03 L;1,95 ¬ ;2,32 ¬ ;-16%;1,89 ¬ /L
+02/05/2023;boissons-bio;Thym Feuilles Bio;Herbier De France;50 g;3,30 ¬ ;4,51 ¬ ;-27%;66,00 ¬ /kg
+02/05/2023;boissons-bio;Pur Jus d'Orange Bio;Vitamont;200 mL;0,95 ¬ ;1,29 ¬ ;-26%;4,75 ¬ /L
+02/05/2023;boissons-bio;Romarin Feuilles Bio;Herbier De France;50 g;3,08 ¬ ;4,03 ¬ ;-24%;61,60 ¬ /kg
+02/05/2023;boissons-bio;Boisson So Soja Doux Origine France Bio;Sojade;1,00 L;1,77 ¬ ;2,43 ¬ ;-27%;1,77 ¬ /L
+02/05/2023;boissons-bio;Jus de Citron Bio;La Fourche;500 mL;2,59 ¬ ;3,11 ¬ ;-17%;5,18 ¬ /L
+02/05/2023;boissons-bio;Eau de Kéfir Probiotique Mélisse Citronnelle Bio;Symbiose;330 mL;2,29 ¬ ;2,90 ¬ ;-21%;6,94 ¬ /L
+02/05/2023;boissons-bio;Boisson Millet Amande Noisette Bio;Bonneterre;1,04 L;3,25 ¬ ;4,38 ¬ ;-26%;3,13 ¬ /L
+02/05/2023;boissons-bio;Menthe Poivrée Feuilles Bio;Herbier De France;40 g;3,35 ¬ ;4,31 ¬ ;-22%;83,75 ¬ /kg
+02/05/2023;boissons-bio;Cola Bio et Equitable;Oxfam;330 mL;1,21 ¬ ;1,50 ¬ ;-19%;3,67 ¬ /L
+02/05/2023;boissons-bio;Thé Noir Earl Grey Bio Equitable;La Fourche;100 g;3,99 ¬ ;5,89 ¬ ;-32%;39,90 ¬ /kg
+02/05/2023;boissons-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;boissons-bio;Poudre Chocolatée 32% Bio;Biodyssée;800 g;5,69 ¬ ;6,30 ¬ ;-10%;7,11 ¬ /kg
+02/05/2023;boissons-bio;Lait Demi-Ecrémé Bio;Natur'Avenir;500 mL;1,17 ¬ ;1,39 ¬ ;-16%;2,34 ¬ /L
+02/05/2023;boissons-bio;Cola Equitable Bio;Vitamont;1,00 L;2,95 ¬ ;3,99 ¬ ;-26%;2,95 ¬ /L
+02/05/2023;boissons-bio;Pur Jus De Pomme Non Filtré Bio;Vitamont;1,00 L;2,55 ¬ ;3,19 ¬ ;-20%;2,55 ¬ /L
+02/05/2023;boissons-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;boissons-bio;Lait de Vache UHT Demi-Écrémé France Bio;Natur'Avenir;1,00 L;1,30 ¬ ;1,86 ¬ ;-30%;1,30 ¬ /L
+02/05/2023;maison-ecologique;Lessive Liquide Blanc et Couleurs Certifiée Eco-détergent;La Fourche;1,50 L;3,99 ¬ ;6,73 ¬ ;-41%;2,66 ¬ /L
+02/05/2023;maison-ecologique;Lessive Liquide Blanc et Couleurs Certifiée Eco-détergent;La Fourche;5,00 L;12,98 ¬ ;20,48 ¬ ;-37%;2,60 ¬ /L
+02/05/2023;maison-ecologique;Spray Nettoyant Multisurfaces Certifié Ecodétergent;La Fourche;500 mL;1,99 ¬ ;3,55 ¬ ;-44%;3,98 ¬ /L
+02/05/2023;maison-ecologique;Gel WC Certifié Ecodétergent;La Fourche;750 mL;2,39 ¬ ;3,76 ¬ ;-36%;3,19 ¬ /L
+02/05/2023;maison-ecologique;Percarbonate de Soude;La Fourche;1 kg;4,99 ¬ ;7,16 ¬ ;-30%;4,99 ¬ /kg
+02/05/2023;maison-ecologique;Sacs Poubelle Recyclé Lien coulissant 30L x 20;La Fourche;Pas de quantité;1,70 ¬ ;2,46 ¬ ;-31%;0,09 ¬ /unité
+02/05/2023;maison-ecologique;Spray Nettoyant Anticalcaire Certifié Ecodétergent;La Fourche;500 mL;1,99 ¬ ;2,90 ¬ ;-31%;3,98 ¬ /L
+02/05/2023;maison-ecologique;Cristaux de Soude;La Fourche;1 kg;4,10 ¬ ;5,89 ¬ ;-30%;4,10 ¬ /kg
+02/05/2023;maison-ecologique;Vinaigre Ménager 12%;La Fourche;5,00 L;8,98 ¬ ;11,84 ¬ ;-24%;1,80 ¬ /L
+02/05/2023;maison-ecologique;Sacs Poubelle Recyclé Lien coulissant 50L x 20;La Fourche;Pas de quantité;2,84 ¬ ;4,15 ¬ ;-32%;0,14 ¬ /unité
+02/05/2023;maison-ecologique;Tablettes Lave Vaisselle Tout en 1 Certifiées Ecodétergent x 60;La Fourche;Pas de quantité;9,86 ¬ ;12,81 ¬ ;-23%;0,16 ¬ /unité
+02/05/2023;maison-ecologique;Mouchoir Boîte 3 Feuilles - x80 mouchoirs;Grazie;Pas de quantité;1,50 ¬ ;2,02 ¬ ;-26%;1,50 ¬ /unité
+02/05/2023;maison-ecologique;Liquide Vaisselle Concentré;L'Artisan Savonnier;1,00 L;2,13 ¬ ;2,80 ¬ ;-24%;2,13 ¬ /L
+02/05/2023;maison-ecologique;Savon de Marseille en Copeaux Certifié Ecodétergent;La Fourche;1 kg;9,95 ¬ ;15,16 ¬ ;-34%;9,95 ¬ /kg
+02/05/2023;maison-ecologique;Savon Noir Liquide Certifié Ecodétergent;La Fourche;5,00 L;20,95 ¬ ;28,74 ¬ ;-27%;4,19 ¬ /L
+02/05/2023;maison-ecologique;Essuie-Tout Blanc 100% Recyclé Ecolabel Origine France - 200 Feuilles x 2;Papeco;Pas de quantité;3,59 ¬ ;4,86 ¬ ;-26%;1,80 ¬ /unité
+02/05/2023;maison-ecologique;Eco Eponges Grattantes  x 2;La Fourche;Pas de quantité;1,59 ¬ ;1,90 ¬ ;-16%;0,80 ¬ /unité
+02/05/2023;maison-ecologique;Acide Citrique;La Fourche;1 kg;8,30 ¬ ;9,93 ¬ ;-16%;8,30 ¬ /kg
+02/05/2023;maison-ecologique;Spray Nettoyant Vitres et Surfaces Vitrées Certifié Ecodétergent;La Fourche;500 mL;1,99 ¬ ;3,18 ¬ ;-37%;3,98 ¬ /L
+02/05/2023;maison-ecologique;Papier Toilette 100% Origine France x 6;Papeco;Pas de quantité;3,30 ¬ ;4,06 ¬ ;-19%;0,55 ¬ /unité
+02/05/2023;maison-ecologique;Vinaigre Ménager 12%;La Fourche;1,00 L;1,92 ¬ ;2,36 ¬ ;-19%;1,92 ¬ /L
+02/05/2023;maison-ecologique;Percarbonate de Soude;La Fourche;2,5 kg;11,65 ¬ ;14,11 ¬ ;-17%;4,66 ¬ /kg
+02/05/2023;maison-ecologique;Nettoyant Sols et Surfaces Certifié Ecodétergent;La Fourche;1,00 L;2,49 ¬ ;3,29 ¬ ;-24%;2,49 ¬ /L
+02/05/2023;maison-ecologique;Sel régénérant pour Lave-Vaisselle;Sonett;2 kg;2,75 ¬ ;3,64 ¬ ;-24%;1,38 ¬ /kg
+02/05/2023;maison-ecologique;Bicarbonate de Soude;La Fourche;1 kg;3,78 ¬ ;4,29 ¬ ;-12%;3,78 ¬ /kg
+02/05/2023;maison-ecologique;Savon Vaisselle Certifié Ecodétergent;La Fourche;200 g;2,25 ¬ ;2,89 ¬ ;-22%;11,25 ¬ /kg
+02/05/2023;maison-ecologique;Mouchoirs Etuis x 10;Grazie;Pas de quantité;1,68 ¬ ;2,13 ¬ ;-21%;0,17 ¬ /unité
+02/05/2023;maison-ecologique;Savon Noir Liquide Certifié Ecodétergent;La Fourche;1,00 L;4,95 ¬ ;5,62 ¬ ;-12%;4,95 ¬ /L
+02/05/2023;maison-ecologique;Bâton de Charbon Actif 100% Français;Le Charbon Français;Pas de quantité;6,89 ¬ ;8,73 ¬ ;-21%;6,89 ¬ /unité
+02/05/2023;maison-ecologique;Recharge Tête Brosse à Vaisselle;Brosserie Domergue;Pas de quantité;2,05 ¬ ;2,86 ¬ ;-28%;2,05 ¬ /unité
+02/05/2023;maison-ecologique;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;maison-ecologique;Bicarbonate de Soude;La Fourche;2,5 kg;8,98 ¬ ;9,99 ¬ ;-10%;3,59 ¬ /kg
+02/05/2023;maison-ecologique;Lessive liquide Concentrée à la Lavande;L'Artisan Savonnier;1,50 L;4,78 ¬ ;5,92 ¬ ;-19%;3,19 ¬ /L
+02/05/2023;maison-ecologique;Brosse à Vaisselle à Tête Interchangeable;Brosserie Domergue;Pas de quantité;2,70 ¬ ;3,62 ¬ ;-25%;2,70 ¬ /unité
+02/05/2023;maison-ecologique;Eco Eponges Douces  x 2;La Fourche;Pas de quantité;1,39 ¬ ;1,64 ¬ ;-15%;0,70 ¬ /unité
+02/05/2023;maison-ecologique;Gel Détartrant concentré;L'Artisan Savonnier;750 mL;2,78 ¬ ;3,38 ¬ ;-18%;3,71 ¬ /L
+02/05/2023;maison-ecologique;Perles De Céramique Spécial Carafes x 15;Les Verts Moutons;Pas de quantité;9,77 ¬ ;11,55 ¬ ;-15%;0,65 ¬ /unité
+02/05/2023;maison-ecologique;Vinaigre Blanc 6% Bio;Bio Pour Tous;1,00 L;1,95 ¬ ;2,25 ¬ ;-13%;1,95 ¬ /L
+02/05/2023;maison-ecologique;Lessive Laine & délicat;L'Artisan Savonnier;1,50 L;4,88 ¬ ;6,41 ¬ ;-24%;3,25 ¬ /L
+02/05/2023;maison-ecologique;Tablettes Lave-Vaisselle Tout-En-Un XL x 100;Ecover;Pas de quantité;18,61 ¬ ;24,79 ¬ ;-25%;0,19 ¬ /unité
+02/05/2023;maison-ecologique;Tablettes WC 2 en 1 x 12;Etamine Du Lys;Pas de quantité;3,97 ¬ ;4,64 ¬ ;-14%;0,33 ¬ /unité
+02/05/2023;maison-ecologique;Boîtes Pour Chat Au Poulet Et Spiruline Bio;Yarrah;400 g;2,43 ¬ ;3,42 ¬ ;-29%;6,08 ¬ /kg
+02/05/2023;maison-ecologique;Piège Rechargeable pour Mites Textiles;Aries;Pas de quantité;7,65 ¬ ;9,75 ¬ ;-22%;7,65 ¬ /unité
+02/05/2023;maison-ecologique;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;maison-ecologique;Poudre Lave Vaisselle;Etamine Du Lys;1,3 kg;10,97 ¬ ;13,59 ¬ ;-19%;8,44 ¬ /kg
+02/05/2023;maison-ecologique;Lessive Liquide Universelle;Ecover;5,00 L;34,70 ¬ ;41,95 ¬ ;-17%;6,94 ¬ /L
+02/05/2023;maison-ecologique;Assouplissant concentré à la Lavande;L'Artisan Savonnier;1,50 L;4,37 ¬ ;4,95 ¬ ;-12%;2,91 ¬ /L
+02/05/2023;maison-ecologique;Nettoyant WC Power - Agrumes;Ecover;750 mL;3,79 ¬ ;4,95 ¬ ;-23%;5,05 ¬ /L
+02/05/2023;maison-ecologique;Graines Bio de Cosmos Sensation En Mélange;La Semence Bio;1 g;2,57 ¬ ;3,20 ¬ ;-20%;5/ 140,00 ¬ /kg
+02/05/2023;maison-ecologique;Nettoyant Multi Usage Citronnelle Gingembre;Ecover;5,00 L;14,04 ¬ ;16,99 ¬ ;-17%;2,81 ¬ /L
+02/05/2023;maison-ecologique;Eponges Grattantes aux Coquilles de Noix x 2;Pimpant;Pas de quantité;3,56 ¬ ;4,40 ¬ ;-19%;1,78 ¬ /unité
+02/05/2023;maison-ecologique;Filtres à Café FSC Non Blanchis x 100;If You Care;Pas de quantité;2,06 ¬ ;2,90 ¬ ;-29%;0,02 ¬ /unité
+02/05/2023;maison-ecologique;Boîtes Pour Chat Au Poisson Et Spiruline Bio;Yarrah;400 g;2,55 ¬ ;3,63 ¬ ;-30%;6,37 ¬ /kg
+02/05/2023;maison-ecologique;Graines Bio de Capucine Variété Nasturtium;La Semence Bio;2 g;2,57 ¬ ;3,05 ¬ ;-16%;1/ 285,00 ¬ /kg
+02/05/2023;maison-ecologique;Liquide Vaisselle Zéro;Ecover;450 mL;2,67 ¬ ;3,44 ¬ ;-22%;5,93 ¬ /L
+02/05/2023;maison-ecologique;Brosse à Vaisselle en Noix de Coco;Bambaw;Pas de quantité;5,18 ¬ ;7,49 ¬ ;-31%;5,18 ¬ /unité
+02/05/2023;maison-ecologique;Pièges Rechargeables pour Mites Alimentaires x 5;Aries;Pas de quantité;5,75 ¬ ;6,72 ¬ ;-14%;1,15 ¬ /unité
+02/05/2023;maison-ecologique;Adoucissant Senteur Fleur de Pommier & Amande;Ecover;5,00 L;17,90 ¬ ;19,47 ¬ ;-8%;3,58 ¬ /L
+02/05/2023;maison-ecologique;Graines Bio de Basilic Genovese Type Grand Vert;La Semence Bio;1 g;2,57 ¬ ;3,10 ¬ ;-17%;5/ 140,00 ¬ /kg
+02/05/2023;maison-ecologique;Adoucissant senteur Fleur de Pommier & Amande;Ecover;1,00 L;4,30 ¬ ;5,25 ¬ ;-18%;4,30 ¬ /L
+02/05/2023;maison-ecologique;Déboucheur pour Canalisations Action rapide;Etamine Du Lys;1,00 L;6,45 ¬ ;9,11 ¬ ;-29%;6,45 ¬ /L
+02/05/2023;maison-ecologique;Graines Bio Mélange de Fleurs Abeilles;La Semence Bio;Pas de quantité;4,82 ¬ ;5,90 ¬ ;-18%;4,82 ¬ /unité
+02/05/2023;maison-ecologique;Lessive en Poudre Universelle;Ecover;1,2 kg;9,29 ¬ ;11,42 ¬ ;-19%;7,74 ¬ /kg
+02/05/2023;maison-ecologique;Litière pour Chat à l'Argile Bio;Yarrah;7 kg;10,50 ¬ ;15,47 ¬ ;-32%;1,50 ¬ /kg
+02/05/2023;maison-ecologique;Blanc de Meudon;L'Artisan Savonnier;500 g;2,65 ¬ ;3,50 ¬ ;-24%;5,30 ¬ /kg
+02/05/2023;maison-ecologique;Liquide de Rinçage;Etamine Du Lys;1,00 L;5,68 ¬ ;7,14 ¬ ;-20%;5,68 ¬ /L
+02/05/2023;maison-ecologique;Set de Brosses à Bouteille x 4;Bambaw;Pas de quantité;8,35 ¬ ;10,79 ¬ ;-23%;2,09 ¬ /unité
+02/05/2023;maison-ecologique;Friandise à Mâcher pour Chien Bio;Yarrah;33 g;1,99 ¬ ;2,76 ¬ ;-28%;60,30 ¬ /kg
+02/05/2023;maison-ecologique;Terre de Diatomée;Maison Pinson;1 kg;10,22 ¬ ;12,55 ¬ ;-19%;10,22 ¬ /kg
+02/05/2023;maison-ecologique;Graines Bio d'Rillet D'Inde Tagete Légion D'Honneur;La Semence Bio;3 g;2,57 ¬ ;3,20 ¬ ;-20%;1/ 028,00 ¬ /kg
+02/05/2023;maison-ecologique;Stick Détachant 100% Artisanal au Fiel;Pimpant;75 g;4,99 ¬ ;5,53 ¬ ;-10%;66,53 ¬ /kg
+02/05/2023;maison-ecologique;Pierre d'Argiletz;Argiletz;300 g;7,69 ¬ ;11,00 ¬ ;-30%;25,63 ¬ /kg
+02/05/2023;maison-ecologique;Lessive Liquide Universelle;Ecover;1,50 L;10,99 ¬ ;14,46 ¬ ;-24%;7,33 ¬ /L
+02/05/2023;maison-ecologique;Graines Bio de Coquelicot Des Champs;La Semence Bio;1 g;2,57 ¬ ;3,05 ¬ ;-16%;5/ 140,00 ¬ /kg
+02/05/2023;maison-ecologique;Eponge Lavable en Coton Bio;Ma Petite Eponge;Pas de quantité;9,16 ¬ ;12,00 ¬ ;-24%;9,16 ¬ /unité
+02/05/2023;maison-ecologique;Balles de Séchage x 3;Pimpant;Pas de quantité;10,13 ¬ ;12,90 ¬ ;-21%;3,38 ¬ /unité
+02/05/2023;maison-ecologique;Détachant;Ecover;200 mL;4,42 ¬ ;5,48 ¬ ;-19%;22,10 ¬ /L
+02/05/2023;maison-ecologique;Beewraps S, M et L x 3;L'Embeillage;Pas de quantité;13,13 ¬ ;18,90 ¬ ;-31%;4,38 ¬ /unité
+02/05/2023;maison-ecologique;Pochons X12 Emincé Chat à la Volaille Bio;Felichef;1,02 kg;11,20 ¬ ;18,38 ¬ ;-39%;10,98 ¬ /kg
+02/05/2023;maison-ecologique;Graines Bio de Fraise Reine Des Vallées;La Semence Bio;1 g;2,57 ¬ ;3,10 ¬ ;-17%;3/ 212,50 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Savon de Provence Verveine Certifié Cosmos Organic;La Fourche;100 g;2,20 ¬ ;3,12 ¬ ;-29%;22,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Cube de Savon de Marseille  Certifié Cosmos Natural;La Fourche;300 g;2,30 ¬ ;4,09 ¬ ;-44%;7,67 ¬ /kg
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Cube de Savon de Marseille Certifié Cosmos Natural;La Fourche;600 g;4,30 ¬ ;7,89 ¬ ;-46%;7,17 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Déodorant Solide en Stick Citron Certifié Cosmos Organic;La Fourche;50 g;4,95 ¬ ;8,20 ¬ ;-40%;99,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Shampoing Solide Cheveux Secs ou Abimés Certifié Cosmos Organic;La Fourche;80 mL;3,99 ¬ ;5,61 ¬ ;-29%;49,88 ¬ /L
+02/05/2023;beaute-hygiene-bio;Savon de Provence Amande Douce Certifié Cosmos Organic;La Fourche;100 g;2,20 ¬ ;3,12 ¬ ;-29%;22,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Dentifrice Fraicheur au Menthol;Coslys;100 g;2,30 ¬ ;3,02 ¬ ;-24%;23,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Savon de Provence au Lait d'ânesse Certifié Cosmos Organic;La Fourche;100 g;2,30 ¬ ;3,23 ¬ ;-29%;23,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Protège-slips Galbés x 30;Natracare;Pas de quantité;1,94 ¬ ;2,77 ¬ ;-30%;0,06 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Savon Saponifié à Froid Bébé et Peaux Sensibles Certifié Cosmos Natural;La Fourche;80 g;3,20 ¬ ;4,28 ¬ ;-25%;40,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Savon de Provence Feuille de Figuier Certifié Cosmos Organic;La Fourche;100 g;2,20 ¬ ;3,12 ¬ ;-29%;22,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Gel Douche Fleur d'Oranger Certifié Cosmos Organic;La Fourche;1,00 L;7,50 ¬ ;9,04 ¬ ;-17%;7,50 ¬ /L
+02/05/2023;beaute-hygiene-bio;Savon D'Alep Pur Olive;Najel;200 g;2,67 ¬ ;3,86 ¬ ;-31%;13,35 ¬ /kg
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Shampoing Solide Cheveux Normaux Certifié Cosmos Organic;La Fourche;80 mL;3,99 ¬ ;5,61 ¬ ;-29%;49,88 ¬ /L
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Savon Saponifié à Froid Fleur d'Oranger Certifié Cosmos Organic;La Fourche;80 g;3,09 ¬ ;3,93 ¬ ;-21%;38,63 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Disques à démaquiller au Coton Bio x 70;Bel Nature;Pas de quantité;1,39 ¬ ;1,99 ¬ ;-30%;0,02 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Gel Douche Lavant Neutre Certifié Cosmos Organic;La Fourche;1,00 L;7,98 ¬ ;14,58 ¬ ;-45%;7,98 ¬ /L
+02/05/2023;beaute-hygiene-bio;Mascara Volume Noir Certifié bio;Avril;10 g;6,36 ¬ ;8,00 ¬ ;-20%;636,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Déodorant bille Certifié Bio;Avril;50 mL;2,25 ¬ ;2,75 ¬ ;-18%;45,00 ¬ /L
+02/05/2023;beaute-hygiene-bio;Shampoing Solide Cheveux Gras Certifié Cosmos Organic;La Fourche;80 mL;3,99 ¬ ;5,61 ¬ ;-29%;49,88 ¬ /L
+02/05/2023;beaute-hygiene-bio;Dentifrice à la menthe Certifié Bio;Avril;100 mL;3,00 ¬ ;3,80 ¬ ;-21%;30,00 ¬ /L
+02/05/2023;beaute-hygiene-bio;Shampoing Usage Fréquent Miel Calendula Avoine - Certifié Bio;Ce'Bio;1,00 L;7,80 ¬ ;9,78 ¬ ;-20%;7,80 ¬ /L
+02/05/2023;beaute-hygiene-bio;Savon D'Alep 40% Huile De Baies De Laurier;Najel;185 g;5,65 ¬ ;7,48 ¬ ;-24%;30,54 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Cotons Tiges au Coton Bio x 200;Bel Nature;Pas de quantité;1,37 ¬ ;1,58 ¬ ;-13%;0,01 ¬ /unité
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Argile Verte Ultra Ventilée;Argiletz;300 g;3,89 ¬ ;5,30 ¬ ;-27%;12,97 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Serviettes Ultra Super avec Ailettes x 12;Natracare;Pas de quantité;2,79 ¬ ;3,78 ¬ ;-26%;0,23 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Gel hydratant 98% Aloé Véra Bio & Equitable;Pur'Aloé;250 mL;12,69 ¬ ;16,19 ¬ ;-22%;50,76 ¬ /L
+02/05/2023;beaute-hygiene-bio;Porte-Savon Ventouse;Endro;Pas de quantité;7,35 ¬ ;9,00 ¬ ;-18%;7,35 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Savon au Lait d'ânesse - Karité Sans Parfum;Cosmo Naturel;100 g;3,15 ¬ ;4,07 ¬ ;-23%;31,50 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Gel Douche Pêche Passion Certifié Cosmos Organic;La Fourche;1,00 L;7,50 ¬ ;9,04 ¬ ;-17%;7,50 ¬ /L
+02/05/2023;beaute-hygiene-bio;Dentifrice Enfant Goût Fraise;Coslys;50 mL;2,97 ¬ ;3,68 ¬ ;-19%;59,40 ¬ /L
+02/05/2023;beaute-hygiene-bio;Dentifrice Menthe Certifié Bio;Coslys;350 g;9,82 ¬ ;12,26 ¬ ;-20%;28,06 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Déodorant Solide en Stick Fleurs Blanches Certifié Cosmos Organic;La Fourche;50 g;4,95 ¬ ;8,20 ¬ ;-40%;99,00 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Recharge Têtes Brosse à Dents Souples x 3;Lamazuna;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Gel Douche Fleur d'Oranger Certifié Cosmos Organic;La Fourche;5,00 L;31,85 ¬ ;44,63 ¬ ;-29%;6,37 ¬ /L
+02/05/2023;beaute-hygiene-bio;Baume à lèvres Certifié Bio;Avril;Pas de quantité;2,12 ¬ ;2,75 ¬ ;-23%;2,12 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Savon Saponifié à Froid Orange Douce Citron Miel Certifié Cosmos Organic;La Fourche;80 g;3,09 ¬ ;3,93 ¬ ;-21%;38,63 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Dentifrice blanchissant Certifié Bio;Avril;100 mL;3,09 ¬ ;3,75 ¬ ;-18%;30,90 ¬ /L
+02/05/2023;beaute-hygiene-bio;Argile Verte Concassée;Argiletz;3 kg;7,62 ¬ ;10,17 ¬ ;-25%;2,54 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Porte Savon En Luffa;Apo;Pas de quantité;2,59 ¬ ;3,60 ¬ ;-28%;2,59 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Serviettes Normal Avec Ailettes x 14;Love and Green;Pas de quantité;2,95 ¬ ;3,10 ¬ ;-5%;0,21 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Serviette Ultra Normal avec Ailettes x 14;Natracare;Pas de quantité;2,99 ¬ ;3,75 ¬ ;-20%;0,21 ¬ /unité
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Argile Blanche Ultra Ventilée;Argiletz;200 g;4,49 ¬ ;6,42 ¬ ;-30%;22,45 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Dentifrice Daily Care à la menthe;Logona;75 mL;2,45 ¬ ;2,71 ¬ ;-10%;32,67 ¬ /L
+02/05/2023;beaute-hygiene-bio;Shampoing Ultra Doux Cheveux Normaux;Coslys;1,00 L;10,55 ¬ ;15,78 ¬ ;-33%;10,55 ¬ /L
+02/05/2023;beaute-hygiene-bio;Serviette Ultra Long Avec Ailettes x 10;Natracare;Pas de quantité;2,69 ¬ ;3,98 ¬ ;-32%;0,27 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Gratte Langue Ayurvédique en Cuivre;Bambaw;Pas de quantité;4,98 ¬ ;5,65 ¬ ;-12%;4,98 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Brosse A Dents Bambou Extra Souple pour Enfant;Apo;Pas de quantité;2,80 ¬ ;3,49 ¬ ;-20%;2,80 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Huile démaquillante Certifiée Bio;Avril;100 mL;5,55 ¬ ;6,98 ¬ ;-20%;55,50 ¬ /L
+02/05/2023;beaute-hygiene-bio;Eau Micellaire Certifiée Bio;Avril;500 mL;5,48 ¬ ;6,45 ¬ ;-15%;10,96 ¬ /L
+02/05/2023;beaute-hygiene-bio;Gel Douche Lavant Neutre Certifié Cosmos Organic;La Fourche;5,00 L;32,98 ¬ ;66,49 ¬ ;-50%;6,60 ¬ /L
+02/05/2023;beaute-hygiene-bio;Dentifrice Solide en pastilles Menthe x 125;Apo;Pas de quantité;7,70 ¬ ;9,10 ¬ ;-15%;0,06 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Dentifrice à Croquer - Menthe Certifié Bio x 120;Lamazuna;Pas de quantité;7,28 ¬ ;9,90 ¬ ;-26%;0,06 ¬ /unité
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Rasoir de Sûreté Or Rose + Socle;Bambaw;Pas de quantité;19,99 ¬ ;25,15 ¬ ;-21%;19,99 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Soin contour des yeux et lèvres- Certifié bio;Avril;40 mL;6,06 ¬ ;8,45 ¬ ;-28%;151,50 ¬ /L
+02/05/2023;beaute-hygiene-bio;Gel Douche Pêche Passion Certifié Cosmos Organic;La Fourche;5,00 L;31,85 ¬ ;44,63 ¬ ;-29%;6,37 ¬ /L
+02/05/2023;beaute-hygiene-bio;Savon d'Alep 12% Huile de Baies de Laurier;Najel;200 g;3,41 ¬ ;4,97 ¬ ;-31%;17,05 ¬ /kg
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Gel Aloe Vera 98% Bio et Equitable;Pur'Aloé;125 g;9,14 ¬ ;11,28 ¬ ;-19%;73,12 ¬ /kg
+02/05/2023;beaute-hygiene-bio;Huile De Soin Antioxydante;Clémence et Vivien;30 mL;10,03 ¬ ;11,55 ¬ ;-13%;334,33 ¬ /L
+02/05/2023;beaute-hygiene-bio;Crème de Jour Peaux Sèches et Sensibles Certifiée Bio;Avril;50 mL;6,21 ¬ ;7,68 ¬ ;-19%;124,20 ¬ /L
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Brosse à Dents Rechargeable - 1 Manche + 2 Têtes Souples x 3;Apo;Pas de quantité;3,87 ¬ ;4,63 ¬ ;-16%;1,29 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Crème de Jour Peaux Normales et Mixtes Certifiée Bio;Avril;50 mL;6,21 ¬ ;7,70 ¬ ;-19%;124,20 ¬ /L
+02/05/2023;beaute-hygiene-bio;Recharge de Savon Liquide au Citron - Certifié Bio;L'Artisan Savonnier;1,00 L;7,90 ¬ ;8,90 ¬ ;-11%;7,90 ¬ /L
+02/05/2023;beaute-hygiene-bio;Gel Lavant Neutre Hypoallergénique Cheveux et Corps;Coslys;1,00 L;9,52 ¬ ;11,71 ¬ ;-19%;9,52 ¬ /L
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Déodorant Roll-on Soin 24h Fleur de Cerisier et Abricot - Certifié Bio;Je suis Bio;50 mL;3,69 ¬ ;5,45 ¬ ;-32%;73,80 ¬ /L
+02/05/2023;beaute-hygiene-bio;Recharge Têtes Brosse à Dents Médium x 3;Lamazuna;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;Cotons Démaquillants Réutilisables x 10;Bambaw;Pas de quantité;7,69 ¬ ;9,99 ¬ ;-23%;0,77 ¬ /unité
+02/05/2023;beaute-hygiene-bio;Dentifrice Daily Care Extra Frais au Fluor;Logona;75 mL;3,27 ¬ ;3,84 ¬ ;-15%;43,60 ¬ /L
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;beaute-hygiene-bio;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Couches Ecologiques T4 (7-18kg) x 50;Tidoo;Pas de quantité;16,95 ¬ ;21,48 ¬ ;-21%;0,34 ¬ /unité
+02/05/2023;bebe-bio-ecologique;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Culottes d'apprentissage T5/Junior (12-18kg) x 36;Tidoo;Pas de quantité;15,90 ¬ ;21,38 ¬ ;-26%;0,44 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Couches Ecologiques T5 (12-25kg) x 46;Tidoo;Pas de quantité;16,95 ¬ ;21,48 ¬ ;-21%;0,37 ¬ /unité
+02/05/2023;bebe-bio-ecologique;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Maxi Carrés Coton x 80;Tidoo;Pas de quantité;2,95 ¬ ;4,62 ¬ ;-36%;0,04 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Couches Ecologiques T4+ (9-20kg) x 48;Tidoo;Pas de quantité;16,95 ¬ ;21,48 ¬ ;-21%;0,35 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Lingettes Bébé Sans Parfum Compostables au Calendula x 58;Tidoo;Pas de quantité;3,00 ¬ ;4,25 ¬ ;-29%;0,05 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Couches Ecologiques T3 (4-9kg) x 56;Tidoo;Pas de quantité;16,95 ¬ ;21,48 ¬ ;-21%;0,30 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Couches T1 2-5kg x 26;Tidoo;Pas de quantité;6,40 ¬ ;7,90 ¬ ;-19%;0,25 ¬ /unité
+02/05/2023;bebe-bio-ecologique;5 Céréales (dès 8 mois) Bio;Hipp;250 g;2,91 ¬ ;3,83 ¬ ;-24%;11,64 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Lait 3 de Croissance Combiotic (dès 10 mois);Hipp;800 g;14,95 ¬ ;aucun;aucun;18,69 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Mini-galettes de riz à la pomme Bio (dès 10 mois);Good Goût;40 g;1,80 ¬ ;2,13 ¬ ;-15%;45,00 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petits Pots Risotto De Légumes Bio (dès 8 mois) - 2x190g;Hipp;380 g;2,98 ¬ ;3,62 ¬ ;-18%;7,84 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Family Pads - Rectangles de Coton Bio x 180;Tidoo;Pas de quantité;4,75 ¬ ;5,95 ¬ ;-20%;0,03 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Couches Ecologiques T2 (3-6kg) x 58;Tidoo;Pas de quantité;15,30 ¬ ;20,44 ¬ ;-25%;0,26 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Lait 2 De Suite Combiotic (dès 6 mois);Hipp;800 g;15,95 ¬ ;aucun;aucun;19,94 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Culottes d'apprentissage T4/M (8-15kg) x 38;Tidoo;Pas de quantité;15,90 ¬ ;21,38 ¬ ;-26%;0,42 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Brassé Nature Bio;Good Goût;200 g;1,95 ¬ ;2,10 ¬ ;-7%;9,75 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Biscuits Epeautre Bebe Demeter (dès 8 mois);Holle;150 g;2,96 ¬ ;3,83 ¬ ;-23%;19,73 ¬ /kg
+02/05/2023;bebe-bio-ecologique;aucune;aucune;Pas de quantité;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Lingettes à l'Eau Naturelles et Biodégradables x 56;Love and Green;Pas de quantité;2,99 ¬ ;3,35 ¬ ;-11%;0,05 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Petits Pots Penne Tomate Courgette Bio (dès 6 mois) - 2x190g;Hipp;380 g;2,98 ¬ ;3,91 ¬ ;-24%;7,84 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petits Pots Tagliatelles Colin Bio (dès 8 mois) - 2x190g;Hipp;380 g;2,86 ¬ ;3,60 ¬ ;-21%;7,53 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Savon à Froid Bébé Frimousse Bio - Choisi en Maternités;Apo;100 g;4,98 ¬ ;5,90 ¬ ;-16%;49,80 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Mon Premier Biscuit (dès 6 mois) Bio;Hipp;180 g;2,96 ¬ ;3,76 ¬ ;-21%;16,44 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Lait de Croissance Optima 3 (10-36 mois) Bio;Babybio;800 g;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Gourdes Multipack Brassés 2 Variétés Bio (dès 6 mois) - 8x90g;Hipp;720 g;8,72 ¬ ;10,86 ¬ ;-20%;12,11 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Carrés Mangue Bio (dès 8 mois);Good Goût;50 g;2,75 ¬ ;3,08 ¬ ;-11%;55,00 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Assiette Carotte Maïs Quinoa Bio (dès 12 mois);Babybio;230 g;2,08 ¬ ;2,58 ¬ ;-19%;9,04 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Les Biscuits des Bois Bio;Good Goût;80 g;2,98 ¬ ;3,73 ¬ ;-20%;37,25 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petits Biscuits Noisette Bio - dès 12 mois;Babybio;160 g;3,20 ¬ ;4,07 ¬ ;-21%;20,00 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Coupelles Pommes Bananes Fruits Rouges Bio (dès 6 mois) - 4x100g;Hipp;400 g;2,98 ¬ ;3,70 ¬ ;-19%;7,45 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Lait 1 Pour Nourrissons Combiotic (0 - 6 mois);Hipp;800 g;16,95 ¬ ;aucun;aucun;21,19 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Assiette Légumes À La Basquaise Et Poulet du Poitou Bio (dès 15 mois);Babybio;260 g;2,61 ¬ ;2,92 ¬ ;-11%;10,04 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petits Boudoirs Bio (dès 8 mois);Babybio;120 g;3,32 ¬ ;3,67 ¬ ;-10%;27,67 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Liniment oléocalcaire familial;Tidoo;900 mL;12,80 ¬ ;16,98 ¬ ;-25%;14,22 ¬ /L
+02/05/2023;bebe-bio-ecologique;Lait Infantile Primea 3 au Lait de Vache Français (10 mois - 3 ans) Bio;Babybio;800 g;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Gourdes Crème Semoule Cacao Bio (dès 8 mois) - 4x85g;Babybio;340 g;3,99 ¬ ;5,46 ¬ ;-27%;11,74 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Couches Ecologiques T6 (16-30kg) x 38;Tidoo;Pas de quantité;16,35 ¬ ;21,48 ¬ ;-24%;0,43 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Biscuits Tout Ronds A La Vanille Bio (dès 10 mois);Good Goût;80 g;3,28 ¬ ;3,59 ¬ ;-9%;41,00 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Pack Gourde X10 Brassé Poire Vanille Bio (dès 6 mois);Good Goût;900 g;12,70 ¬ ;17,00 ¬ ;-25%;14,11 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Couches Taille 4 (7-18 kg) x 40;Pingo;Pas de quantité;13,90 ¬ ;16,73 ¬ ;-17%;0,35 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Carré Banane (dès 8 mois) Bio;Good Goût;50 g;2,84 ¬ ;3,18 ¬ ;-11%;56,80 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Culottes de Bain T4/M 8-15kg x 12;Tidoo;Pas de quantité;7,95 ¬ ;9,30 ¬ ;-15%;0,66 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Petits pots Petits Pois Maïs Riz Bio (dès 6 mois) - 2x200g;Babybio;400 g;3,24 ¬ ;3,79 ¬ ;-15%;8,10 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Mini-baguettes à la tomate Bio (dès 10 mois);Good Goût;70 g;2,79 ¬ ;3,13 ¬ ;-11%;39,86 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petits Pots Gratin Petits Légumes Bio (dès 8 mois) - 2X190g;Hipp;380 g;2,89 ¬ ;2,69 ¬ ;aucun;7,61 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Lait de Croissance 4 Demeter Bio dès 12 mois;Holle;600 g;11,80 ¬ ;aucun;aucun;19,67 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Couches T4 (7-14kg) Hypoallergéniques x 46;Love and Green;Pas de quantité;17,40 ¬ ;19,96 ¬ ;-13%;0,38 ¬ /unité
+02/05/2023;bebe-bio-ecologique;Eau Nettoyante Visage et Corps;Babybio;250 g;4,57 ¬ ;5,91 ¬ ;-23%;18,28 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Gourde Poire Fleur d'Oranger Bio - dès 6 mois;Babybio;360 g;3,65 ¬ ;4,30 ¬ ;-15%;10,14 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petits Pots Carottes Pommes De Terre Saumon Bio (dès 6 mois) - 2x190g;Hipp;380 g;2,95 ¬ ;3,81 ¬ ;-23%;7,76 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Risotto De Courgettes Au Chèvre Bio (dès 8 mois);Good Goût;190 g;2,95 ¬ ;3,44 ¬ ;-14%;15,53 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petits pots Carottes Butternut et Riz Bio (dès 6 mois) - 2x200g;Babybio;400 g;3,18 ¬ ;3,37 ¬ ;-6%;7,95 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Céréales Bananes Cacao (dès 8 mois) Bio;Hipp;250 g;2,98 ¬ ;4,02 ¬ ;-26%;11,92 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Céréales en Poudre Vanille Bio - Dès 6 Mois;Bébé Mandorle;400 g;8,85 ¬ ;12,24 ¬ ;-28%;22,12 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Assiette Légumes Du Potager Dinde Romarin Bio (dès 12 mois);Hipp;230 g;2,87 ¬ ;3,60 ¬ ;-20%;12,48 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petit Pot Pomme Clémentines Bio - dès 6 mois;Babybio;260 g;2,67 ¬ ;3,27 ¬ ;-18%;10,27 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Assiette Fondue De Pommes De Terre Légumes Verts Saumon Bio (dès 12 mois);Hipp;230 g;2,47 ¬ ;2,89 ¬ ;-15%;10,74 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Crème de Change Réparatrice sans Zinc Certifiée Cosmos Organic;Tidoo;75 g;5,22 ¬ ;6,90 ¬ ;-24%;69,60 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Pack Gourde X10 Fraise Banane Bio (dès 6 mois);Good Goût;1,2 kg;12,99 ¬ ;16,50 ¬ ;-21%;10,83 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Lait Infantile Chèvre 3ème Âge (à partir de 10 mois) Bio;Holle;800 g;22,60 ¬ ;aucun;aucun;28,25 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Délices de Lait Fromage Blanc Nature Sucré Bio (dès 6 mois) - 4x100g;Hipp;400 g;2,92 ¬ ;3,79 ¬ ;-23%;7,30 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Menu Maïs doux et Poulet fermier du Poitou Bio (dès 8 mois) - 2x200g;Babybio;400 g;3,41 ¬ ;4,10 ¬ ;-17%;8,53 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Assiette Carotte Pomme de terre Cabillaud - dès 15 mois;Babybio;260 g;2,30 ¬ ;2,66 ¬ ;-14%;8,85 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Bioliniment Oléo calcaire;Tidoo;450 mL;7,10 ¬ ;10,06 ¬ ;-29%;15,78 ¬ /L
+02/05/2023;bebe-bio-ecologique;Petits pots Carotte Patate douce et Blé Bio (dès 6 mois) - 2x200g;Babybio;400 g;3,18 ¬ ;3,82 ¬ ;-17%;7,95 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Assiette Spaghetti Tomates Mozzarella Bio (dès 12 mois);Hipp;230 g;2,57 ¬ ;3,15 ¬ ;-18%;11,17 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Bols Menu Haricots Verts Panais Et Blé Bio (dès 12 mois) - 2x200g;Babybio;400 g;3,27 ¬ ;3,73 ¬ ;-12%;8,17 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Artichauts Panais Pâtes Parmesan Bio (dès 6 mois);Good Goût;190 g;2,98 ¬ ;3,47 ¬ ;-14%;15,68 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Petits pots Pomme Abricot Céréale Bio (dès 4 mois) - 2x130g;Babybio;260 g;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Caprea 3 Lait de Croissance De Chèvre (10-36 mois) Bio;Babybio;800 g;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Bio-Liniment Certifié Bio;Love and Green;500 mL;7,98 ¬ ;10,15 ¬ ;-21%;15,96 ¬ /L
+02/05/2023;bebe-bio-ecologique;Petits Pots Légumes Verts Bio (dès 4 mois) - 2x130g;Babybio;260 g;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Mes Premières Céréales (dès 4/6 mois) Bio;Hipp;250 g;aucun;aucun;aucun;aucun
+02/05/2023;bebe-bio-ecologique;Gourdes Pomme Poire Pêche Bio (dès 6 mois) - 4x90g;Babybio;360 g;3,67 ¬ ;4,20 ¬ ;-13%;10,19 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Lait Infantile Nourrisson Chèvre 1er Âge (jusqu'à 6 mois) Bio;Holle;800 g;22,60 ¬ ;aucun;aucun;28,25 ¬ /kg
+02/05/2023;bebe-bio-ecologique;Gel Corps et Cheveux Sans Parfum Certifié Bio;Love and Green;500 mL;6,55 ¬ ;7,50 ¬ ;-13%;13,10 ¬ /L
+02/05/2023;bebe-bio-ecologique;Assiette Petites Lasagnes Aux Légumes Bio (dès 18 mois);Hipp;260 g;2,88 ¬ ;3,36 ¬ ;-14%;11,08 ¬ /kg
